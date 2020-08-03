@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+</head>
+
+<body onload='init();'>
+    <div class="Heading">
+        <h1>Wine Selector</h1>
+    </div>
+
+    <div class="MainContent">
+        <p>Lets say you are traveling to a new country and you are interested in finding out what popular wines are available in the price range you are interested in. You can use the tool below to choose your favorite wines. The bars get updated with the top 10 varietals as you choose your country and the price range from the filters below.</p>
+    </div>
+
+    <table>
+        <tr>
+            <td style="text-align:left;"><a href="slide2.html" class="next">&laquo; Previous </a>
+            </td>
+            <td style="text-align:left;"><a href="index.html" class="next">Main &raquo;</a>
+            </td>
+        </tr>
+    </table>
+
+    <div class="MainContent">
+        <p>By choosing 'All' for the country and 'Any' for the price, you can find out what the most popular wine varitals across the world are.</p>
+
+        <table>
+            <tr>
+                <td>
+                    <div id='countryList'>
+                        <label for="country"><b><i>Choose your Country:</i></b></label>
+                        <select name="countries" id="countryList">
+                            <option value="United States">United States</option>
+                            <option value="All">All</option>
+                            <option value="Argentina">Argentina</option>
+                            <option value="Armenia">Armenia</option>
+                            <option value="Australia">Australia</option>
+                            <option value="Austria">Austria</option>
+                            <option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>
+                            <option value="Brazil">Brazil</option>
+                            <option value="Bulgaria">Bulgaria</option>
+                            <option value="Canada">Canada</option>
+                            <option value="Chile">Chile</option>
+                            <option value="China">China</option>
+                            <option value="Croatia">Croatia</option>
+                            <option value="Czech Republic">Czech Republic</option>
+                            <option value="Egypt">Egypt</option>
+                            <option value="England">England</option>
+                            <option value="France">France</option>
+                            <option value="Georgia">Georgia</option>
+                            <option value="Germany">Germany</option>
+                            <option value="Greece">Greece</option>
+                            <option value="Hungary">Hungary</option>
+                            <option value="India">India</option>
+                            <option value="Israel">Israel</option>
+                            <option value="Italy">Italy</option>
+                            <option value="Lebanon">Lebanon</option>
+                            <option value="Luxembourg">Luxembourg</option>
+                            <option value="Macedonia">Macedonia</option>
+                            <option value="Mexico">Mexico</option>
+                            <option value="Moldova">Moldova</option>
+                            <option value="Morocco">Morocco</option>
+                            <option value="New Zealand">New Zealand</option>
+                            <option value="Peru">Peru</option>
+                            <option value="Portugal">Portugal</option>
+                            <option value="Romania">Romania</option>
+                            <option value="Serbia">Serbia</option>
+                            <option value="Slovakia">Slovakia</option>
+                            <option value="Slovenia">Slovenia</option>
+                            <option value="South Africa">South Africa</option>
+                            <option value="Spain">Spain</option>
+                            <option value="Switzerland">Switzerland</option>
+                            <option value="Turkey">Turkey</option>
+                            <option value="Ukraine">Ukraine</option>
+                            <option value="United States">United States</option>
+                            <option value="Uruguay">Uruguay</option>
+
+                        </select>
+
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+
+                    <div id='priceButton'>
+                        <label for="priceButton"><b><i>Choose your price range:</i></b></label> <br>
+                        <input type='radio' name='priceButton' value='Any'>Any Price <br>
+                        <input type='radio' name='priceButton' value='Under10'>Under 10$ <br>
+                        <input type='radio' name='priceButton' value='Under25' checked> 11 - 25$ <br>
+                        <input type='radio' name='priceButton' value='Under50'>26 - 50$ <br>
+                        <input type='radio' name='priceButton' value='Under100'>51 - 100$ <br>
+                        <input type='radio' name='priceButton' value='Above100'> Above 100$ <br>
+
+
+                    </div>
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div id='submit'>
+                        <button type="button" name="submitButton"><b>Find Wines</b></button>
+                    </div>
+
+                </td>
+            <tr>
+                <td>
+                    <div style="color:indianred"><u>*Hover on blue bars below for additional varietal details.</u></div>
+                </td>
+            </tr>
+
+
+        </table>
+    </div>
+
+
+    <div id="table-location"></div>
+
+    <div id="my_dataviz"></div>
+
+
+    <div id="my_dataviz2"></div>
+
+    <div id=tabledisplay></div>
+    <div class="footer">
+        <p>
+            <a href="https://www.kaggle.com/zynicide/wine-reviews?select=winemag-data-130k-v2.csv">Wine Dataset: kaggle winemag dataset</a>
+
+        </p>
+        <p>By: Aruna Gomatam</p>
+    </div>
+
+
+
+
+    <script src="slide3.js"></script>
+</body></html>

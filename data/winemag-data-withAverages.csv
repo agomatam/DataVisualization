@@ -1,0 +1,2313 @@
+﻿Country,Variety,AvgPrice,AvgPoints,Tastings
+United States,Pinot Noir,45 ,90 ,9885 
+United States,Cabernet Sauvignon,55 ,89 ,7315 
+United States,Chardonnay,31 ,88 ,6801 
+France,Bordeaux-style Red Blend,41 ,89 ,4725 
+Italy,Red Blend,40 ,89 ,3624 
+United States,Syrah,39 ,89 ,3244 
+United States,Red Blend,34 ,88 ,2972 
+France,Chardonnay,57 ,89 ,2808 
+Italy,Nebbiolo,66 ,90 ,2735 
+United States,Zinfandel,29 ,88 ,2711 
+Portugal,Portuguese Red,25 ,89 ,2466 
+United States,Merlot,29 ,87 ,2311 
+Italy,Sangiovese,49 ,89 ,2265 
+United States,Sauvignon Blanc,21 ,87 ,2163 
+France,Pinot Noir,82 ,90 ,1966 
+France,Ros√©,19 ,87 ,1923 
+United States,Bordeaux-style Red Blend,58 ,90 ,1824 
+Germany,Riesling,44 ,90 ,1790 
+United States,Riesling,19 ,88 ,1753 
+Argentina,Malbec,28 ,88 ,1510 
+Spain,Tempranillo,31 ,88 ,1429 
+France,Champagne Blend,77 ,90 ,1243 
+Austria,Gr√ºner Veltliner,28 ,90 ,1234 
+Portugal,Portuguese White,15 ,87 ,1159 
+France,Bordeaux-style White Blend,35 ,89 ,1021 
+France,Gamay,21 ,88 ,1020 
+United States,Cabernet Franc,35 ,88 ,1003 
+France,Sauvignon Blanc,27 ,88 ,933 
+United States,Ros√©,20 ,87 ,907 
+United States,Pinot Gris,19 ,88 ,868 
+Spain,Red Blend,35 ,88 ,818 
+United States,Viognier,25 ,88 ,790 
+Italy,White Blend,28 ,88 ,779 
+Chile,Cabernet Sauvignon,20 ,87 ,771 
+Italy,Sangiovese Grosso,66 ,91 ,750 
+United States,Petite Sirah,32 ,88 ,747 
+France,Rh√¥ne-style Red Blend,33 ,89 ,741 
+France,Riesling,32 ,90 ,718 
+Italy,Glera,20 ,87 ,709 
+United States,Rh√¥ne-style Red Blend,37 ,89 ,693 
+Chile,Sauvignon Blanc,14 ,86 ,683 
+United States,Sparkling Blend,36 ,89 ,678 
+United States,White Blend,22 ,87 ,640 
+Australia,Shiraz,47 ,90 ,620 
+Italy,"Corvina, Rondinella, Molinara",48 ,88 ,619 
+Portugal,Port,68 ,90 ,607 
+Italy,Pinot Grigio,18 ,87 ,605 
+Spain,Tempranillo Blend,36 ,88 ,582 
+Austria,Riesling,38 ,91 ,581 
+New Zealand,Sauvignon Blanc,19 ,88 ,547 
+Argentina,Cabernet Sauvignon,19 ,86 ,540 
+United States,Malbec,35 ,88 ,537 
+Chile,Carmen√®re,20 ,86 ,525 
+United States,Grenache,35 ,89 ,521 
+Chile,Chardonnay,15 ,85 ,516 
+New Zealand,Pinot Noir,35 ,88 ,509 
+Spain,Sparkling Blend,20 ,87 ,497 
+Italy,Barbera,25 ,88 ,479 
+France,Gew√ºrztraminer,34 ,89 ,476 
+France,Pinot Gris,33 ,90 ,458 
+France,Malbec,34 ,90 ,449 
+United States,Sangiovese,28 ,87 ,433 
+Chile,Red Blend,40 ,89 ,409 
+United States,Gew√ºrztraminer,19 ,88 ,406 
+Australia,Chardonnay,25 ,87 ,400 
+France,Sparkling Blend,23 ,88 ,383 
+Chile,Pinot Noir,19 ,86 ,363 
+Italy,Nero d'Avola,23 ,87 ,361 
+United States,Pinot Grigio,15 ,86 ,360 
+Italy,Sparkling Blend,41 ,89 ,348 
+United States,Tempranillo,33 ,88 ,345 
+Italy,Aglianico,39 ,89 ,344 
+Spain,Albari√±o,21 ,87 ,340 
+Italy,Chardonnay,32 ,88 ,334 
+Spain,Garnacha,23 ,86 ,313 
+France,Red Blend,22 ,88 ,304 
+Italy,Sauvignon,27 ,88 ,298 
+Spain,White Blend,20 ,86 ,297 
+Argentina,Chardonnay,17 ,85 ,295 
+Spain,Verdejo,16 ,86 ,290 
+France,Melon,17 ,88 ,279 
+Chile,Syrah,28 ,88 ,273 
+France,Chenin Blanc,28 ,89 ,270 
+Italy,Garganega,21 ,88 ,270 
+Australia,Cabernet Sauvignon,35 ,89 ,266 
+Chile,Merlot,13 ,85 ,258 
+France,White Blend,19 ,87 ,255 
+United States,Meritage,35 ,88 ,254 
+Argentina,Torront√©s,14 ,85 ,245 
+United States,Barbera,28 ,88 ,238 
+Italy,Prosecco,19 ,86 ,235 
+Portugal,Ros√©,12 ,85 ,235 
+Argentina,Red Blend,34 ,88 ,234 
+United States,Petit Verdot,39 ,88 ,221 
+United States,Rh√¥ne-style White Blend,28 ,89 ,217 
+Austria,Blaufr√§nkisch,33 ,90 ,214 
+United States,Mourv√®dre,35 ,89 ,214 
+Austria,Zweigelt,21 ,88 ,201 
+France,Rh√¥ne-style White Blend,38 ,88 ,197 
+United States,Pinot Blanc,21 ,88 ,196 
+France,Pinot Blanc,20 ,87 ,192 
+Italy,Montepulciano,25 ,87 ,192 
+Italy,Moscato,21 ,87 ,190 
+Portugal,Touriga Nacional,29 ,89 ,181 
+South Africa,Chenin Blanc,20 ,88 ,181 
+Italy,Pinot Nero,35 ,89 ,180 
+South Africa,Sauvignon Blanc,16 ,87 ,179 
+Spain,Menc√≠a,28 ,89 ,178 
+France,Cabernet Franc,25 ,88 ,173 
+South Africa,Chardonnay,23 ,88 ,168 
+Spain,Tinta de Toro,45 ,90 ,166 
+France,Syrah,56 ,90 ,164 
+Italy,Verdicchio,22 ,88 ,164 
+Italy,Vermentino,23 ,88 ,158 
+Italy,Turbiana,24 ,89 ,157 
+Italy,Pinot Bianco,25 ,88 ,154 
+Australia,Riesling,22 ,89 ,151 
+Italy,Merlot,93 ,89 ,150 
+Spain,Ros√©,13 ,85 ,150 
+United States,Roussanne,27 ,88 ,150 
+Italy,Syrah,53 ,89 ,147 
+United States,G-S-M,36 ,89 ,147 
+Chile,Malbec,19 ,87 ,142 
+Italy,Fiano,28 ,88 ,142 
+Spain,Monastrell,19 ,87 ,140 
+Italy,Vernaccia,19 ,87 ,138 
+Italy,Grillo,18 ,87 ,137 
+Portugal,Alvarinho,19 ,89 ,136 
+Australia,Pinot Noir,32 ,87 ,132 
+South Africa,Cabernet Sauvignon,23 ,88 ,132 
+Italy,Cabernet Sauvignon,44 ,89 ,131 
+United States,Albari√±o,23 ,88 ,131 
+Italy,Dolcetto,20 ,87 ,130 
+Austria,Sauvignon Blanc,29 ,90 ,128 
+South Africa,Pinotage,24 ,87 ,124 
+Italy,Friulano,24 ,88 ,122 
+United States,Grenache Blanc,25 ,89 ,122 
+United States,Chenin Blanc,20 ,88 ,122 
+Italy,Greco,27 ,88 ,120 
+Italy,Primitivo,22 ,87 ,118 
+Italy,Nerello Mascalese,41 ,90 ,117 
+France,Merlot,25 ,87 ,115 
+New Zealand,Chardonnay,31 ,89 ,109 
+Spain,Viura,15 ,85 ,107 
+United States,Moscato,14 ,86 ,106 
+Argentina,Bonarda,17 ,87 ,105 
+Argentina,Pinot Noir,23 ,86 ,105 
+Israel,Cabernet Sauvignon,34 ,89 ,105 
+United States,Primitivo,28 ,87 ,104 
+Italy,Sagrantino,53 ,90 ,100 
+Spain,Tinto Fino,64 ,90 ,100 
+United States,Gr√ºner Veltliner,22 ,88 ,100 
+Austria,Pinot Noir,37 ,90 ,99 
+Italy,Rosato,17 ,87 ,98 
+United States,Champagne Blend,34 ,88 ,98 
+Spain,Sherry,36 ,90 ,97 
+South Africa,Red Blend,27 ,89 ,93 
+South Africa,Shiraz,28 ,88 ,93 
+Austria,Red Blend,35 ,90 ,92 
+Argentina,Bordeaux-style Red Blend,42 ,90 ,89 
+Austria,St. Laurent,31 ,90 ,88 
+South Africa,Bordeaux-style Red Blend,52 ,90 ,88 
+Italy,Falanghina,21 ,87 ,87 
+United States,S√©millon,25 ,89 ,84 
+France,Malbec-Merlot,19 ,89 ,82 
+Spain,Godello,23 ,87 ,81 
+Austria,Austrian white blend,33 ,90 ,79 
+Italy,Negroamaro,18 ,87 ,79 
+Argentina,Sauvignon Blanc,15 ,84 ,78 
+Portugal,Arinto,16 ,87 ,77 
+Australia,Grenache,45 ,90 ,76 
+Israel,Red Blend,40 ,89 ,76 
+Italy,Ribolla Gialla,28 ,88 ,76 
+Spain,Chardonnay,20 ,85 ,74 
+Italy,Lagrein,33 ,89 ,73 
+Italy,Ros√©,16 ,86 ,73 
+Germany,Sp√§tburgunder,61 ,90 ,72 
+Greece,White Blend,20 ,87 ,72 
+Italy,Arneis,21 ,87 ,71 
+Italy,Cortese,22 ,86 ,71 
+Spain,Rosado,13 ,85 ,71 
+Austria,White Blend,31 ,90 ,70 
+Greece,Red Blend,28 ,87 ,68 
+United States,Fum√© Blanc,23 ,88 ,68 
+Australia,Red Blend,29 ,88 ,66 
+France,Viognier,56 ,89 ,66 
+United States,Cabernet Sauvignon-Syrah,45 ,90 ,66 
+Portugal,Portuguese Sparkling,18 ,86 ,65 
+Argentina,Cabernet Franc,45 ,89 ,64 
+France,Provence red blend,30 ,90 ,64 
+Austria,Chardonnay,35 ,90 ,63 
+Greece,Agiorgitiko,24 ,87 ,63 
+Austria,Austrian Red Blend,35 ,90 ,62 
+Austria,Ros√©,15 ,88 ,62 
+New Zealand,Pinot Gris,21 ,88 ,62 
+United States,Port,39 ,88 ,60 
+Argentina,Merlot,18 ,85 ,59 
+France,Tannat,36 ,92 ,59 
+United States,Nebbiolo,36 ,88 ,58 
+Argentina,Syrah,17 ,86 ,57 
+France,Cabernet Sauvignon,18 ,85 ,57 
+New Zealand,Riesling,20 ,88 ,57 
+Argentina,Malbec-Cabernet Sauvignon,41 ,88 ,56 
+Germany,Pinot Noir,31 ,89 ,55 
+Canada,Riesling,35 ,89 ,54 
+Italy,Pecorino,20 ,87 ,54 
+Austria,Sparkling Blend,30 ,89 ,53 
+Spain,Cabernet Sauvignon,32 ,87 ,53 
+Uruguay,Tannat,30 ,87 ,53 
+Australia,Sauvignon Blanc,17 ,87 ,52 
+South Africa,Syrah,37 ,90 ,52 
+France,Alsace white blend,30 ,90 ,51 
+France,Gros and Petit Manseng,21 ,90 ,51 
+South Africa,Merlot,19 ,87 ,51 
+Spain,Tempranillo-Cabernet Sauvignon,50 ,86 ,51 
+United States,Tannat,37 ,88 ,51 
+Italy,Lambrusco,16 ,85 ,50 
+United States,Dolcetto,27 ,87 ,50 
+France,Muscat,31 ,89 ,49 
+Hungary,Furmint,48 ,90 ,49 
+Italy,Sauvignon Blanc,23 ,87 ,49 
+Portugal,Syrah,31 ,89 ,49 
+United States,Carmen√®re,34 ,88 ,48 
+Chile,Carignan,24 ,88 ,47 
+England,Sparkling Blend,51 ,91 ,47 
+Italy,Trebbiano,24 ,87 ,47 
+United States,Shiraz,26 ,86 ,47 
+Italy,Gew√ºrztraminer,31 ,88 ,46 
+United States,Vermentino,22 ,88 ,46 
+New Zealand,Syrah,42 ,90 ,45 
+Chile,Ros√©,13 ,84 ,44 
+Greece,Assyrtico,24 ,88 ,43 
+Italy,Prugnolo Gentile,48 ,89 ,43 
+Portugal,Alicante Bouschet,32 ,90 ,43 
+Chile,Cabernet Sauvignon-Carmen√®re,23 ,87 ,42 
+United States,Bordeaux-style White Blend,30 ,88 ,42 
+Israel,Bordeaux-style Red Blend,50 ,89 ,41 
+Israel,Chardonnay,24 ,87 ,41 
+France,Sylvaner,22 ,88 ,40 
+South Africa,White Blend,22 ,88 ,40 
+United States,Vidal Blanc,25 ,86 ,40 
+Israel,Merlot,25 ,87 ,39 
+Italy,Frappato,23 ,88 ,39 
+Portugal,Encruzado,24 ,90 ,39 
+United States,Marsanne,28 ,88 ,39 
+Argentina,Ros√©,13 ,84 ,38 
+Australia,Shiraz-Viognier,53 ,90 ,38 
+Chile,Cabernet Franc,24 ,87 ,38 
+United States,Semillon-Sauvignon Blanc,33 ,89 ,38 
+Chile,Bordeaux-style Red Blend,52 ,90 ,37 
+Germany,Silvaner,47 ,89 ,37 
+Germany,Gew√ºrztraminer,16 ,88 ,37 
+Italy,Carricante,40 ,90 ,37 
+Spain,Garnacha Blanca,18 ,86 ,37 
+United States,Sauvignon Blanc-Semillon,31 ,89 ,37 
+United States,Cabernet Sauvignon-Merlot,37 ,88 ,37 
+France,Petit Manseng,33 ,92 ,36 
+France,Provence white blend,24 ,88 ,36 
+Greece,Moschofilero,15 ,88 ,36 
+Portugal,Fern√£o Pires,21 ,87 ,36 
+Spain,Moscatel,33 ,88 ,36 
+United States,Muscat Canelli,21 ,88 ,36 
+Austria,Gelber Muskateller,26 ,89 ,35 
+Spain,Pedro Xim√©nez,36 ,91 ,35 
+Spain,Syrah,31 ,89 ,35 
+Portugal,Castel√£o,17 ,87 ,34 
+Portugal,Verdelho,24 ,87 ,34 
+United States,Syrah-Grenache,36 ,89 ,34 
+Australia,Viognier,23 ,88 ,33 
+Australia,Sparkling Blend,21 ,87 ,33 
+Austria,Weissburgunder,26 ,90 ,33 
+Greece,Xinomavro,23 ,87 ,33 
+Italy,Insolia,17 ,87 ,33 
+Italy,M√ºller-Thurgau,22 ,87 ,33 
+Spain,Sauvignon Blanc,14 ,84 ,33 
+United States,Claret,50 ,88 ,33 
+United States,Muscat,19 ,88 ,33 
+Argentina,White Blend,21 ,85 ,32 
+Austria,Pinot Blanc,26 ,89 ,32 
+Georgia,Saperavi,21 ,89 ,32 
+Australia,Shiraz-Cabernet Sauvignon,21 ,88 ,31 
+France,Tannat-Cabernet,21 ,90 ,31 
+Italy,Zibibbo,37 ,90 ,31 
+Italy,Cannonau,25 ,88 ,31 
+United States,Cinsault,28 ,90 ,31 
+United States,Lemberger,19 ,87 ,31 
+Australia,Ros√©,19 ,87 ,30 
+Italy,Inzolia,15 ,86 ,30 
+South Africa,Pinot Noir,40 ,89 ,30 
+Spain,Graciano,53 ,88 ,30 
+Spain,Tempranillo-Garnacha,11 ,85 ,30 
+United States,Carignane,27 ,89 ,30 
+Argentina,Sparkling Blend,18 ,85 ,29 
+Australia,Bordeaux-style Red Blend,67 ,89 ,29 
+Italy,Catarratto,20 ,87 ,29 
+Portugal,Baga,36 ,90 ,29 
+Portugal,Loureiro,13 ,87 ,29 
+Australia,Pinot Grigio,14 ,86 ,28 
+Chile,Cabernet Blend,50 ,89 ,28 
+France,Chenin Blanc-Chardonnay,17 ,88 ,28 
+Italy,Cabernet Franc,86 ,91 ,28 
+Portugal,Touriga Nacional-Cabernet Sauvignon,14 ,88 ,28 
+United States,Syrah-Cabernet Sauvignon,49 ,90 ,28 
+Argentina,Pinot Grigio,11 ,84 ,27 
+Chile,White Blend,16 ,84 ,27 
+France,Grenache,29 ,88 ,27 
+Italy,Picolit,70 ,91 ,27 
+Italy,Malvasia,28 ,87 ,27 
+New Zealand,Bordeaux-style Red Blend,47 ,91 ,27 
+South Africa,Ros√©,13 ,86 ,27 
+United States,Pinot Meunier,32 ,88 ,27 
+Australia,G-S-M,29 ,89 ,26 
+Austria,Rotgipfler,27 ,90 ,26 
+Canada,Chardonnay,26 ,89 ,26 
+Israel,Shiraz,23 ,89 ,26 
+Italy,Kerner,23 ,89 ,26 
+Portugal,Trincadeira,20 ,88 ,26 
+United States,Charbono,34 ,88 ,26 
+France,Vermentino,24 ,88 ,25 
+Portugal,Sauvignon Blanc,19 ,87 ,25 
+United States,Grenache-Syrah,41 ,89 ,25 
+United States,Petite Verdot,47 ,89 ,25 
+Canada,Cabernet Franc,42 ,89 ,24 
+Chile,Cabernet Sauvignon-Syrah,18 ,87 ,24 
+Chile,Riesling,16 ,86 ,24 
+France,Gros Manseng,18 ,88 ,24 
+France,Jacqu√®re,17 ,88 ,24 
+Hungary,Tokaji,59 ,91 ,24 
+Italy,Riesling,21 ,88 ,24 
+Italy,Passerina,17 ,86 ,24 
+United States,Verdelho,18 ,87 ,24 
+Canada,Pinot Noir,33 ,89 ,23 
+Chile,Shiraz,18 ,86 ,23 
+Chile,Viognier,13 ,85 ,23 
+Italy,Albana,23 ,90 ,23 
+Italy,Schiava,19 ,88 ,23 
+Spain,Bobal,22 ,86 ,23 
+Spain,Grenache,15 ,86 ,23 
+Spain,Macabeo,18 ,85 ,23 
+Australia,Sauvignon Blanc-Semillon,22 ,88 ,22 
+Austria,Welschriesling,30 ,90 ,22 
+Bulgaria,Red Blend,22 ,89 ,22 
+Germany,Pinot Blanc,20 ,89 ,22 
+Germany,Dornfelder,13 ,86 ,22 
+Israel,Syrah,40 ,89 ,22 
+Italy,Corvina,43 ,89 ,22 
+Spain,Verdejo-Viura,11 ,86 ,22 
+United States,Montepulciano,31 ,87 ,22 
+Argentina,Viognier,13 ,84 ,21 
+France,Marsanne,44 ,89 ,21 
+Georgia,Rkatsiteli,21 ,87 ,21 
+Spain,Monastrell-Syrah,19 ,86 ,21 
+Spain,Xarel-lo,16 ,86 ,21 
+United States,Cabernet Blend,58 ,89 ,21 
+Argentina,Tempranillo,14 ,84 ,20 
+Australia,S√©millon,30 ,89 ,20 
+Bulgaria,Cabernet Sauvignon,11 ,88 ,20 
+Chile,Cabernet Sauvignon-Merlot,18 ,86 ,20 
+Chile,Gew√ºrztraminer,15 ,85 ,20 
+France,Savagnin,48 ,90 ,20 
+France,Grenache-Syrah,18 ,88 ,20 
+Italy,Piedirosso,21 ,87 ,20 
+South Africa,Viognier,20 ,87 ,20 
+United States,Gamay Noir,23 ,88 ,20 
+United States,Orange Muscat,20 ,88 ,20 
+Uruguay,Red Blend,33 ,87 ,20 
+Australia,Merlot,21 ,86 ,19 
+Austria,Traminer,33 ,89 ,19 
+France,Aligot√©,19 ,86 ,19 
+Italy,Lambrusco di Sorbara,21 ,90 ,19 
+Italy,Nero di Troia,28 ,88 ,19 
+Portugal,Pinot Noir,32 ,88 ,19 
+Turkey,Red Blend,26 ,88 ,19 
+United States,Cabernet Franc-Merlot,45 ,89 ,19 
+United States,Touriga Nacional,29 ,87 ,19 
+Australia,White Blend,19 ,87 ,18 
+England,Chardonnay,54 ,92 ,18 
+France,Pinot Meunier,71 ,90 ,18 
+France,Colombard-Sauvignon Blanc,11 ,85 ,18 
+Hungary,White Blend,28 ,91 ,18 
+Israel,Sauvignon Blanc,17 ,86 ,18 
+Italy,Lambrusco Grasparossa,18 ,87 ,18 
+Italy,Coda di Volpe,20 ,85 ,18 
+Spain,Tinto del Pais,39 ,88 ,18 
+United States,Merlot-Cabernet Franc,39 ,89 ,18 
+United States,Petit Manseng,26 ,86 ,18 
+United States,Chambourcin,18 ,84 ,18 
+Croatia,Plavac Mali,34 ,88 ,17 
+France,Pinot Noir-Gamay,18 ,85 ,17 
+Greece,Assyrtiko,23 ,89 ,17 
+Israel,White Blend,23 ,87 ,17 
+Portugal,Moscatel,49 ,89 ,17 
+Portugal,Touriga Nacional Blend,20 ,89 ,17 
+Portugal,Ant√£o Vaz,20 ,88 ,17 
+Portugal,Chardonnay,18 ,88 ,17 
+Spain,Palomino,38 ,89 ,17 
+Spain,Hondarrabi Zuri,21 ,86 ,17 
+United States,Marsanne-Roussanne,27 ,87 ,17 
+Argentina,Malbec-Syrah,15 ,86 ,16 
+Australia,Syrah,106 ,92 ,16 
+Austria,Zierfandler,33 ,90 ,16 
+Bulgaria,Chardonnay,14 ,89 ,16 
+Italy,Teroldego,34 ,90 ,16 
+Italy,Raboso,25 ,86 ,16 
+Lebanon,Red Blend,37 ,88 ,16 
+Portugal,Alfrocheiro,27 ,89 ,16 
+Portugal,Cabernet Sauvignon,19 ,88 ,16 
+Portugal,Portuguese Ros√©,17 ,85 ,16 
+Romania,Cabernet Sauvignon,10 ,86 ,16 
+United States,Syrah-Petite Sirah,41 ,90 ,16 
+United States,Blaufr√§nkisch,27 ,88 ,16 
+United States,Teroldego,31 ,88 ,16 
+United States,Baco Noir,26 ,86 ,16 
+United States,Norton,25 ,84 ,16 
+United States,Seyval Blanc,20 ,84 ,16 
+Australia,Shiraz-Grenache,28 ,90 ,15 
+Austria,Scheurebe,59 ,92 ,15 
+Austria,Pinot Gris,25 ,90 ,15 
+Bulgaria,Pinot Noir,14 ,89 ,15 
+Canada,Bordeaux-style Red Blend,48 ,90 ,15 
+Canada,Vidal Blanc,61 ,89 ,15 
+France,Syrah-Grenache,17 ,89 ,15 
+France,Negrette,19 ,88 ,15 
+Greece,Chardonnay,26 ,88 ,15 
+Italy,Carignano,37 ,90 ,15 
+Italy,Gaglioppo,21 ,87 ,15 
+Italy,Grechetto,17 ,87 ,15 
+Italy,Moscato Giallo,23 ,87 ,15 
+Italy,Brachetto,18 ,84 ,15 
+Portugal,Viognier,25 ,88 ,15 
+Romania,Sauvignon Blanc,11 ,87 ,15 
+Romania,Pinot Noir,9 ,86 ,15 
+Spain,Prieto Picudo,39 ,86 ,15 
+Spain,Merlot,17 ,85 ,15 
+Turkey,Kalecik Karasi,25 ,89 ,15 
+United States,Aglianico,31 ,88 ,15 
+United States,Arneis,22 ,88 ,15 
+United States,Tocai Friulano,20 ,87 ,15 
+Australia,Pinot Gris,18 ,87 ,14 
+Canada,Syrah,47 ,91 ,14 
+Chile,Sparkling Blend,22 ,85 ,14 
+France,Tannat-Cabernet Franc,22 ,91 ,14 
+Germany,Weissburgunder,27 ,89 ,14 
+Germany,Sparkling Blend,25 ,88 ,14 
+Mexico,Red Blend,44 ,88 ,14 
+Portugal,Merlot,20 ,88 ,14 
+South Africa,Rh√¥ne-style Red Blend,46 ,91 ,14 
+Spain,Cabernet Sauvignon-Tempranillo,15 ,86 ,14 
+Spain,Pansa Blanca,18 ,86 ,14 
+United States,Merlot-Cabernet Sauvignon,53 ,89 ,14 
+Australia,Muscat,90 ,92 ,13 
+Australia,Moscato,12 ,86 ,13 
+Austria,Roter Veltliner,37 ,90 ,13 
+Bulgaria,Merlot,11 ,88 ,13 
+France,Auxerrois,23 ,88 ,13 
+France,Chardonnay-Viognier,15 ,86 ,13 
+Greece,Ros√©,17 ,87 ,13 
+Italy,Sylvaner,24 ,89 ,13 
+Italy,Uva di Troia,24 ,88 ,13 
+Italy,Viognier,30 ,87 ,13 
+Portugal,Bical,15 ,86 ,13 
+Spain,Garnacha-Syrah,13 ,85 ,13 
+Spain,Viura-Chardonnay,11 ,85 ,13 
+Spain,Champagne Blend,11 ,84 ,13 
+United States,Graciano,31 ,90 ,13 
+United States,Malvasia Bianca,22 ,89 ,13 
+United States,Roussanne-Viognier,31 ,89 ,13 
+United States,Garnacha,28 ,88 ,13 
+Argentina,Cabernet Sauvignon-Malbec,45 ,87 ,12 
+Argentina,S√©millon,18 ,84 ,12 
+Australia,Rh√¥ne-style Red Blend,25 ,88 ,12 
+Bulgaria,Sauvignon Blanc,10 ,86 ,12 
+France,Mondeuse,21 ,87 ,12 
+France,Pinot Auxerrois,26 ,87 ,12 
+France,Colombard,10 ,86 ,12 
+Germany,Ros√©,21 ,89 ,12 
+Greece,Malagousia,21 ,89 ,12 
+Italy,Ruch√©,27 ,87 ,12 
+Portugal,Siria,14 ,87 ,12 
+Romania,Chardonnay,11 ,86 ,12 
+South Africa,Sparkling Blend,25 ,86 ,12 
+United States,Cabernet Sauvignon-Cabernet Franc,55 ,89 ,12 
+United States,Counoise,31 ,89 ,12 
+United States,White Riesling,16 ,89 ,12 
+United States,Colombard,23 ,88 ,12 
+United States,Chenin Blanc-Viognier,14 ,87 ,12 
+United States,Pinotage,29 ,87 ,12 
+Argentina,Moscato,10 ,82 ,11 
+Australia,Cabernet Sauvignon-Shiraz,43 ,90 ,11 
+Australia,Cabernet Sauvignon-Merlot,33 ,89 ,11 
+Australia,Semillon-Sauvignon Blanc,20 ,86 ,11 
+Austria,Neuburger,25 ,91 ,11 
+Austria,Muskat Ottonel,12 ,88 ,11 
+Canada,Merlot,30 ,89 ,11 
+France,Malbec-Tannat,30 ,92 ,11 
+France,Cabernet Franc-Cabernet Sauvignon,25 ,90 ,11 
+France,Roussanne,31 ,89 ,11 
+Germany,Pinot Gris,20 ,88 ,11 
+Israel,Ros√©,20 ,87 ,11 
+Moldova,Red Blend,23 ,88 ,11 
+Portugal,Tinta Roriz,29 ,88 ,11 
+Spain,Tinta Fina,30 ,88 ,11 
+Spain,Pinot Noir,20 ,87 ,11 
+Spain,Moscato,12 ,84 ,11 
+United States,Auxerrois,22 ,89 ,11 
+United States,Black Muscat,22 ,88 ,11 
+United States,Muscat Blanc,21 ,88 ,11 
+United States,Rkatsiteli,22 ,86 ,11 
+United States,M√ºller-Thurgau,14 ,85 ,11 
+United States,Vignoles,18 ,85 ,11 
+Argentina,Malbec-Cabernet Franc,39 ,89 ,10 
+Argentina,Petit Verdot,38 ,89 ,10 
+Canada,Gew√ºrztraminer,20 ,89 ,10 
+Canada,Sauvignon Blanc,22 ,88 ,10 
+Chile,Sauvignon Gris,19 ,85 ,10 
+France,Picpoul,14 ,86 ,10 
+Hungary,Kekfrankos,30 ,87 ,10 
+Israel,Petite Sirah,33 ,89 ,10 
+Italy,Champagne Blend,25 ,88 ,10 
+Italy,Pallagrello,36 ,88 ,10 
+Italy,Perricone,27 ,88 ,10 
+Lebanon,White Blend,26 ,87 ,10 
+New Zealand,Merlot,31 ,89 ,10 
+New Zealand,Sparkling Blend,25 ,88 ,10 
+Portugal,Aragon√™s,30 ,89 ,10 
+Portugal,Aragonez,24 ,88 ,10 
+Romania,Red Blend,26 ,88 ,10 
+Romania,Merlot,19 ,86 ,10 
+Romania,Pinot Grigio,8 ,86 ,10 
+Slovenia,White Blend,32 ,89 ,10 
+South Africa,Cabernet Sauvignon-Merlot,18 ,87 ,10 
+Spain,Carignan,173 ,93 ,10 
+Spain,Petit Verdot,54 ,90 ,10 
+Spain,Grenache-Carignan,30 ,89 ,10 
+Spain,Trepat,21 ,88 ,10 
+United States,Syrah-Mourv√®dre,37 ,88 ,10 
+United States,Aligot√©,21 ,87 ,10 
+United States,Traminette,15 ,85 ,10 
+Argentina,Pinot Gris,13 ,85 ,9 
+France,Loin de l'Oeil,27 ,91 ,9 
+France,Ugni Blanc-Colombard,11 ,86 ,9 
+Georgia,White Blend,12 ,87 ,9 
+Germany,White Blend,16 ,88 ,9 
+Greece,Muscat,17 ,87 ,9 
+Israel,Cabernet Sauvignon-Merlot,23 ,88 ,9 
+Italy,Durella,31 ,90 ,9 
+Italy,Tocai,22 ,89 ,9 
+Italy,Grecanico,21 ,87 ,9 
+Italy,Traminer,17 ,87 ,9 
+Italy,Refosco,30 ,86 ,9 
+Mexico,Chardonnay,17 ,84 ,9 
+Portugal,Petit Verdot,30 ,90 ,9 
+Portugal,Sparkling Blend,23 ,87 ,9 
+Slovenia,Ribolla Gialla,20 ,88 ,9 
+Slovenia,Sauvignon Blanc,18 ,87 ,9 
+Spain,Cabernet Sauvignon-Merlot,16 ,88 ,9 
+Spain,Bordeaux-style Red Blend,45 ,87 ,9 
+Spain,Tempranillo Blanco,29 ,84 ,9 
+United States,Carignan,33 ,89 ,9 
+United States,Fiano,21 ,88 ,9 
+United States,Johannisberg Riesling,9 ,86 ,9 
+Argentina,Cabernet Blend,36 ,88 ,8 
+Argentina,Champagne Blend,23 ,85 ,8 
+Argentina,Shiraz,9 ,84 ,8 
+Australia,Champagne Blend,24 ,86 ,8 
+Brazil,Sparkling Blend,29 ,86 ,8 
+Canada,Vidal,45 ,91 ,8 
+Chile,Carmen√®re-Cabernet Sauvignon,27 ,88 ,8 
+Croatia,Malvasia,19 ,88 ,8 
+Croatia,Posip,25 ,88 ,8 
+France,Altesse,18 ,89 ,8 
+France,Colombard-Ugni Blanc,10 ,85 ,8 
+Germany,Scheurebe,20 ,88 ,8 
+Germany,Red Blend,20 ,87 ,8 
+Hungary,Red Blend,35 ,87 ,8 
+Italy,Petit Verdot,38 ,90 ,8 
+Italy,Cesanese d'Affile,22 ,88 ,8 
+Italy,Nosiola,31 ,88 ,8 
+Italy,Manzoni,23 ,87 ,8 
+Mexico,Cabernet Sauvignon,33 ,84 ,8 
+Moldova,Cabernet Sauvignon,14 ,88 ,8 
+Morocco,Red Blend,19 ,90 ,8 
+Portugal,Sous√£o,37 ,88 ,8 
+Portugal,White Blend,21 ,88 ,8 
+South Africa,Riesling,18 ,88 ,8 
+Spain,Garnacha Tintorera,17 ,87 ,8 
+Spain,Muscat,18 ,87 ,8 
+Spain,Tempranillo-Shiraz,14 ,85 ,8 
+Turkey,Okuzgozu,24 ,90 ,8 
+United States,Picpoul,28 ,90 ,8 
+United States,Syrah-Viognier,48 ,90 ,8 
+United States,Cabernet Merlot,13 ,85 ,8 
+United States,Chardonnay-Viognier,23 ,85 ,8 
+Argentina,Malbec-Merlot,21 ,86 ,7 
+Australia,Mourv√®dre,50 ,91 ,7 
+Australia,Tokay,47 ,91 ,7 
+Austria,Grauburgunder,30 ,89 ,7 
+Brazil,Merlot,19 ,84 ,7 
+Bulgaria,Mavrud,14 ,88 ,7 
+Canada,Cabernet Sauvignon,47 ,90 ,7 
+Chile,Carmen√®re-Syrah,23 ,87 ,7 
+Chile,Pedro Xim√©nez,11 ,84 ,7 
+England,Pinot Noir,50 ,92 ,7 
+France,Duras,21 ,88 ,7 
+France,Mauzac,18 ,88 ,7 
+France,Merlot-Cabernet Sauvignon,13 ,87 ,7 
+Israel,Pinot Noir,18 ,86 ,7 
+Italy,Mantonico,28 ,88 ,7 
+Italy,Nascetta,27 ,88 ,7 
+Italy,Trebbiano Spoletino,22 ,88 ,7 
+Italy,Cabernet,13 ,87 ,7 
+Italy,Tocai Friulano,38 ,87 ,7 
+Mexico,Sauvignon Blanc,15 ,85 ,7 
+Portugal,Bual,100 ,94 ,7 
+Portugal,Red Blend,22 ,89 ,7 
+Portugal,Touriga Franca,27 ,89 ,7 
+Slovenia,Pinot Noir,19 ,88 ,7 
+Spain,Tempranillo-Merlot,19 ,85 ,7 
+Switzerland,,85 ,89 ,7 
+Turkey,Narince,21 ,87 ,7 
+United States,Monastrell,29 ,91 ,7 
+United States,Cabernet Sauvignon-Sangiovese,42 ,89 ,7 
+United States,Mission,53 ,89 ,7 
+United States,Lagrein,35 ,88 ,7 
+United States,Syrah-Cabernet,38 ,88 ,7 
+United States,Viognier-Roussanne,26 ,88 ,7 
+United States,Zweigelt,28 ,88 ,7 
+United States,Muskat Ottonel,21 ,86 ,7 
+Argentina,Chardonnay-Viognier,17 ,85 ,6 
+Australia,Muscadelle,160 ,94 ,6 
+Australia,Mataro,62 ,91 ,6 
+Australia,Roussanne,45 ,89 ,6 
+Australia,Sangiovese,16 ,88 ,6 
+Australia,Petite Sirah,21 ,87 ,6 
+Austria,Morillon,31 ,90 ,6 
+Brazil,Tannat,14 ,84 ,6 
+Canada,Meritage,42 ,91 ,6 
+Chile,Petit Verdot,52 ,89 ,6 
+Chile,Syrah-Cabernet,17 ,87 ,6 
+Chile,Syrah-Cabernet Sauvignon,24 ,87 ,6 
+Chile,Chardonnay-Viognier,12 ,84 ,6 
+Croatia,Red Blend,24 ,88 ,6 
+France,Mourv√®dre,41 ,91 ,6 
+France,Cabernet-Syrah,30 ,89 ,6 
+France,Chasselas,21 ,89 ,6 
+France,G-S-M,23 ,89 ,6 
+France,S√©millon,15 ,87 ,6 
+Georgia,Kisi,20 ,87 ,6 
+Germany,Rieslaner,39 ,90 ,6 
+Germany,Grauburgunder,20 ,88 ,6 
+Greece,Merlot,39 ,88 ,6 
+Greece,Syrah,22 ,87 ,6 
+Greece,Cabernet Sauvignon,21 ,86 ,6 
+Greece,Sauvignon Blanc,25 ,86 ,6 
+Hungary,Bordeaux-style Red Blend,46 ,88 ,6 
+Israel,Carignan,44 ,90 ,6 
+Israel,Cabernet Franc,33 ,88 ,6 
+Israel,Cabernet Sauvignon-Shiraz,22 ,88 ,6 
+Italy,Moscadello,40 ,90 ,6 
+Italy,Nerello Cappuccio,37 ,90 ,6 
+Italy,Susumaniello,31 ,90 ,6 
+Italy,Verduzzo,33 ,90 ,6 
+Italy,Tempranillo,31 ,89 ,6 
+Italy,Pri√© Blanc,24 ,88 ,6 
+Italy,Malvasia Nera,39 ,87 ,6 
+Italy,Pinot Noir,25 ,87 ,6 
+Italy,Greco Bianco,17 ,86 ,6 
+Mexico,Nebbiolo,24 ,86 ,6 
+Moldova,White Blend,25 ,88 ,6 
+Portugal,Jaen,33 ,90 ,6 
+Portugal,Moscatel Roxo,22 ,90 ,6 
+Portugal,Avesso,16 ,88 ,6 
+Romania,Feteasca Neagra,16 ,88 ,6 
+Slovenia,Pinot Grigio,12 ,88 ,6 
+South Africa,S√©millon,32 ,90 ,6 
+South Africa,Merlot-Cabernet Sauvignon,11 ,87 ,6 
+South Africa,Chenin Blanc-Sauvignon Blanc,11 ,85 ,6 
+Spain,Carignan-Grenache,32 ,89 ,6 
+Spain,Grenache Blanc,27 ,87 ,6 
+Spain,Maturana,58 ,87 ,6 
+Spain,Garnacha-Tempranillo,11 ,86 ,6 
+Spain,Syrah-Grenache,16 ,86 ,6 
+Spain,Grenache Blend,13 ,85 ,6 
+Spain,Malvasia,19 ,85 ,6 
+Turkey,Syrah,32 ,90 ,6 
+Ukraine,Sparkling Blend,11 ,83 ,6 
+United States,Pinot-Chardonnay,29 ,90 ,6 
+United States,Syrah-Tempranillo,44 ,90 ,6 
+United States,Cabernet-Syrah,26 ,89 ,6 
+United States,Merlot-Cabernet,24 ,89 ,6 
+United States,Alicante Bouschet,28 ,88 ,6 
+United States,Malbec-Merlot,28 ,87 ,6 
+United States,Tempranillo Blend,26 ,87 ,6 
+United States,Valdigui√©,19 ,87 ,6 
+United States,Sangiovese-Cabernet Sauvignon,30 ,86 ,6 
+United States,Blanc du Bois,27 ,85 ,6 
+Uruguay,Albari√±o,22 ,87 ,6 
+Uruguay,Tannat-Merlot,18 ,87 ,6 
+Argentina,Cabernet Sauvignon-Merlot,19 ,87 ,5 
+Argentina,Chenin Blanc-Chardonnay,11 ,86 ,5 
+Argentina,Malbec-Bonarda,18 ,86 ,5 
+Australia,Marsanne,25 ,89 ,5 
+Australia,Rh√¥ne-style White Blend,22 ,88 ,5 
+Australia,Cabernet Merlot,23 ,87 ,5 
+Australia,Malbec,66 ,87 ,5 
+Australia,Verdelho,15 ,87 ,5 
+Austria,S√§mling,36 ,91 ,5 
+Austria,Roter Traminer,30 ,90 ,5 
+Austria,Zierfandler-Rotgipfler,24 ,90 ,5 
+Austria,Cabernet Sauvignon,31 ,87 ,5 
+Brazil,Champagne Blend,26 ,86 ,5 
+Brazil,Chardonnay,25 ,84 ,5 
+Canada,Red Blend,29 ,91 ,5 
+Canada,White Blend,20 ,88 ,5 
+Chile,Cabernet Sauvignon-Cabernet Franc,28 ,90 ,5 
+Chile,Viognier-Chardonnay,15 ,84 ,5 
+Chile,Pinot Grigio,12 ,83 ,5 
+Croatia,Teran,28 ,88 ,5 
+CyprUnited States,White Blend,14 ,87 ,5 
+France,Braucol,27 ,91 ,5 
+France,Sciaccerellu,37 ,89 ,5 
+France,Tannat-Merlot,19 ,89 ,5 
+France,Carignan,20 ,88 ,5 
+France,Trousseau,33 ,87 ,5 
+Germany,Chardonnay,28 ,89 ,5 
+Germany,Lemberger,35 ,88 ,5 
+Greece,Savatiano,14 ,87 ,5 
+Greece,Viognier,33 ,87 ,5 
+Greece,Mavrodaphne,16 ,86 ,5 
+Israel,Gew√ºrztraminer,25 ,89 ,5 
+Israel,Viognier,18 ,88 ,5 
+Italy,Timorasso,42 ,91 ,5 
+Italy,Gr√ºner Veltliner,24 ,88 ,5 
+Italy,Pallagrello Bianco,32 ,88 ,5 
+Italy,Pallagrello Nero,41 ,88 ,5 
+Italy,Aleatico,40 ,87 ,5 
+Italy,Alicante,23 ,87 ,5 
+Italy,Casavecchia,46 ,87 ,5 
+Italy,Shiraz,17 ,87 ,5 
+Italy,Verdeca,16 ,86 ,5 
+Lebanon,Ros√©,18 ,87 ,5 
+Moldova,Muscat,9 ,85 ,5 
+Morocco,Sauvignon Blanc,18 ,88 ,5 
+New Zealand,Gr√ºner Veltliner,20 ,89 ,5 
+New Zealand,Ros√©,17 ,86 ,5 
+Portugal,Bordeaux-style Red Blend,41 ,93 ,5 
+Portugal,Viosinho,23 ,88 ,5 
+Portugal,Alvarinho-Chardonnay,11 ,87 ,5 
+Romania,Moscato,7 ,86 ,5 
+South Africa,Champagne Blend,17 ,87 ,5 
+South Africa,Shiraz-Cabernet Sauvignon,21 ,87 ,5 
+Spain,Cabernet Blend,90 ,89 ,5 
+Spain,Carine√±a,22 ,86 ,5 
+Spain,Sauvignon,15 ,86 ,5 
+Spain,Verdejo-Sauvignon Blanc,10 ,85 ,5 
+United States,Grenache-Carignan,26 ,91 ,5 
+United States,Dornfelder,35 ,90 ,5 
+United States,Torront√©s,27 ,90 ,5 
+United States,Rosato,21 ,88 ,5 
+United States,Sangiovese-Syrah,50 ,88 ,5 
+United States,Gamay,33 ,87 ,5 
+United States,Grenache-Mourv√®dre,28 ,87 ,5 
+United States,Symphony,16 ,85 ,5 
+Uruguay,Pinot Noir,19 ,85 ,5 
+Argentina,Cabernet Franc-Malbec,59 ,91 ,4 
+Argentina,Malbec-Petit Verdot,40 ,91 ,4 
+Argentina,Nebbiolo,64 ,89 ,4 
+Argentina,Tannat,22 ,87 ,4 
+Australia,Grenache-Shiraz,26 ,88 ,4 
+Brazil,Moscato,15 ,84 ,4 
+Brazil,Cabernet Sauvignon,27 ,83 ,4 
+Bulgaria,White Blend,16 ,88 ,4 
+Bulgaria,Ros√©,11 ,86 ,4 
+Bulgaria,Traminer,11 ,86 ,4 
+Bulgaria,Muskat Ottonel,11 ,84 ,4 
+Canada,Pinot Gris,19 ,90 ,4 
+Chile,Cinsault,27 ,89 ,4 
+Chile,Petite Sirah,31 ,88 ,4 
+Chile,Muscat,22 ,85 ,4 
+Chile,Moscato,7 ,81 ,4 
+Croatia,Babiƒá,35 ,89 ,4 
+Croatia,Malvasia Istriana,17 ,88 ,4 
+Croatia,White Blend,31 ,86 ,4 
+France,Syrah-Mourv√®dre,21 ,91 ,4 
+France,Muscadelle,38 ,90 ,4 
+France,Syrah-Viognier,66 ,90 ,4 
+France,Rolle,22 ,88 ,4 
+France,Viognier-Chardonnay,17 ,88 ,4 
+France,Fer Servadou,17 ,87 ,4 
+France,Mansois,17 ,87 ,4 
+France,Tannat-Syrah,10 ,87 ,4 
+Georgia,Red Blend,18 ,89 ,4 
+Georgia,Mtsvane,18 ,88 ,4 
+Germany,Elbling,16 ,88 ,4 
+Germany,Muskateller,27 ,87 ,4 
+Greece,Malagouzia,20 ,89 ,4 
+Greece,Robola,23 ,88 ,4 
+Greece,Roditis,17 ,87 ,4 
+Greece,Vilana,15 ,87 ,4 
+Hungary,Cabernet Franc,53 ,87 ,4 
+Hungary,Ros√©,18 ,87 ,4 
+India,Shiraz,16 ,92 ,4 
+Israel,Syrah-Mourv√®dre,33 ,90 ,4 
+Italy,Bovale,30 ,90 ,4 
+Italy,Veltliner,30 ,90 ,4 
+Italy,Magliocco,30 ,89 ,4 
+Italy,Monica,16 ,87 ,4 
+Italy,Pignoletto,16 ,85 ,4 
+Morocco,Syrah,18 ,90 ,4 
+New Zealand,Cabernet Sauvignon-Merlot,32 ,90 ,4 
+Peru,Red Blend,29 ,85 ,4 
+Portugal,S√©millon,31 ,90 ,4 
+Portugal,C√≥dega do Larinho,18 ,88 ,4 
+Portugal,Riesling,20 ,88 ,4 
+Portugal,Tinta Barroca,18 ,87 ,4 
+Portugal,Vinh√£o,22 ,86 ,4 
+Romania,Feteasc«é Regal«é,10 ,87 ,4 
+Romania,Riesling,86 ,84 ,4 
+Slovenia,Bordeaux-style Red Blend,40 ,89 ,4 
+Slovenia,Chardonnay,18 ,89 ,4 
+Slovenia,Red Blend,26 ,89 ,4 
+Slovenia,Riesling,30 ,87 ,4 
+South Africa,Cabernet Sauvignon-Shiraz,18 ,90 ,4 
+Spain,Mazuelo,78 ,88 ,4 
+Spain,Merlot-Cabernet Sauvignon,17 ,86 ,4 
+Spain,Macabeo-Chardonnay,12 ,85 ,4 
+Spain,Sauvignon Blanc-Verdejo,12 ,85 ,4 
+Turkey,Boƒüazkere,26 ,90 ,4 
+Turkey,Emir,16 ,87 ,4 
+United States,Grenache Blend,38 ,90 ,4 
+United States,Syrah-Cabernet Franc,69 ,90 ,4 
+United States,Sangiovese Cabernet,48 ,89 ,4 
+United States,Nero d'Avola,29 ,88 ,4 
+United States,Sagrantino,48 ,87 ,4 
+United States,Saperavi,30 ,86 ,4 
+United States,Semillon-Chardonnay,14 ,86 ,4 
+United States,Verdejo,18 ,86 ,4 
+Argentina,Malbec-Cabernet,113 ,92 ,3 
+Argentina,Syrah-Viognier,58 ,91 ,3 
+Argentina,Cabernet Franc-Cabernet Sauvignon,41 ,89 ,3 
+Argentina,Rosado,12 ,87 ,3 
+Argentina,Cabernet Sauvignon-Shiraz,10 ,85 ,3 
+Argentina,Malbec-Tannat,37 ,85 ,3 
+Australia,Chardonnay-Semillon,18 ,90 ,3 
+Australia,Tempranillo,22 ,90 ,3 
+Australia,Cabernet Blend,37 ,89 ,3 
+Australia,Zinfandel,29 ,88 ,3 
+Australia,Shiraz-Cabernet,56 ,87 ,3 
+Australia,Vermentino,16 ,86 ,3 
+Austria,Merlot,35 ,91 ,3 
+Austria,Sauvignon Blanc-Chardonnay,35 ,91 ,3 
+Austria,Gew√ºrztraminer,21 ,89 ,3 
+Austria,Muskat,13 ,89 ,3 
+Brazil,Red Blend,36 ,85 ,3 
+Bulgaria,Syrah,24 ,89 ,3 
+Bulgaria,Viognier,15 ,89 ,3 
+Bulgaria,Riesling,13 ,85 ,3 
+Canada,Rh√¥ne-style White Blend,25 ,91 ,3 
+Canada,Ros√©,20 ,87 ,3 
+Chile,Cabernet Sauvignon-Malbec,16 ,86 ,3 
+Chile,Champagne Blend,15 ,83 ,3 
+CyprUnited States,Red Blend,17 ,87 ,3 
+France,Carignan-Syrah,59 ,91 ,3 
+France,Grenache Blanc,36 ,91 ,3 
+France,Romorantin,23 ,91 ,3 
+France,Marsanne-Roussanne,42 ,89 ,3 
+France,Merlot-Tannat,18 ,89 ,3 
+France,Sauvignon,22 ,89 ,3 
+France,Syrah-Carignan,19 ,89 ,3 
+France,Sauvignon Blanc-Chardonnay,18 ,88 ,3 
+France,Chardonnay-Sauvignon,15 ,87 ,3 
+France,Grolleau,39 ,87 ,3 
+France,Poulsard,26 ,87 ,3 
+France,Cinsault,14 ,86 ,3 
+France,Cabernet Sauvignon-Merlot,10 ,85 ,3 
+Georgia,Sparkling Blend,13 ,85 ,3 
+Germany,Pinot Grigio,13 ,88 ,3 
+Germany,St. Laurent,38 ,87 ,3 
+Greece,Cabernet Sauvignon-Merlot,21 ,88 ,3 
+Hungary,Muscat,15 ,88 ,3 
+Hungary,Sparkling Blend,12 ,84 ,3 
+India,Chenin Blanc,11 ,89 ,3 
+Israel,Rh√¥ne-style Red Blend,23 ,92 ,3 
+Israel,Cabernet Merlot,40 ,90 ,3 
+Israel,Marselan,41 ,89 ,3 
+Israel,Moscato,13 ,89 ,3 
+Israel,Argaman,41 ,88 ,3 
+Israel,Chardonnay-Sauvignon Blanc,12 ,88 ,3 
+Israel,Marawi,35 ,88 ,3 
+Israel,Barbera,22 ,85 ,3 
+Italy,Lambrusco Salamino,20 ,89 ,3 
+Italy,Verduzzo Friulano ,54 ,89 ,3 
+Italy,Cabernet Blend,47 ,88 ,3 
+Italy,Canaiolo,41 ,88 ,3 
+Italy,Ciliegiolo,31 ,88 ,3 
+Italy,Erbaluce,29 ,88 ,3 
+Italy,Incrocio Manzoni,26 ,88 ,3 
+Italy,Malvasia Bianca,26 ,88 ,3 
+Italy,Nuragus,16 ,88 ,3 
+Italy,Petit Manseng,39 ,88 ,3 
+Italy,Pugnitello,49 ,88 ,3 
+Italy,Trebbiano di Lugana,29 ,88 ,3 
+Italy,Marzemino,52 ,86 ,3 
+Italy,Malvasia Istriana,19 ,85 ,3 
+Italy,Asprinio,15 ,84 ,3 
+Macedonia,Vranec,17 ,87 ,3 
+Macedonia,Pinot Noir,15 ,86 ,3 
+Mexico,Petite Sirah,14 ,85 ,3 
+Mexico,Chenin Blanc,13 ,83 ,3 
+Moldova,Pinot Grigio,13 ,87 ,3 
+Moldova,Sauvignon Blanc,13 ,86 ,3 
+Morocco,Chardonnay,18 ,88 ,3 
+Morocco,Syrah-Grenache,33 ,87 ,3 
+Morocco,White Blend,15 ,86 ,3 
+New Zealand,Chenin Blanc,26 ,90 ,3 
+New Zealand,Gew√ºrztraminer,21 ,88 ,3 
+New Zealand,Merlot-Malbec,20 ,87 ,3 
+New Zealand,Pinot Grigio,15 ,87 ,3 
+New Zealand,Sauvignon Blanc-Semillon,25 ,86 ,3 
+Portugal,Rh√¥ne-style Red Blend,45 ,93 ,3 
+Portugal,Cerceal,45 ,90 ,3 
+Portugal,Chenin Blanc,20 ,90 ,3 
+Portugal,Shiraz,13 ,90 ,3 
+Portugal,Tinta Francisca,50 ,90 ,3 
+Portugal,Tinta Mi√∫da,19 ,88 ,3 
+Portugal,Azal,14 ,86 ,3 
+Romania,Pinot Gris,16 ,87 ,3 
+Romania,White Blend,14 ,86 ,3 
+Serbia,Red Blend,41 ,89 ,3 
+Serbia,Riesling,21 ,87 ,3 
+Slovenia,Cabernet Sauvignon,36 ,89 ,3 
+Slovenia,Pinot Gris,29 ,89 ,3 
+Slovenia,Rebula,23 ,88 ,3 
+Slovenia,Sauvignon,25 ,87 ,3 
+South Africa,Cabernet Franc,28 ,90 ,3 
+South Africa,Moscato,7 ,84 ,3 
+Spain,Cabernet Sauvignon-Syrah,30 ,90 ,3 
+Spain,Grenache-Syrah,13 ,88 ,3 
+Spain,List√°n Negro,28 ,88 ,3 
+Spain,Garnacha-Monastrell,12 ,87 ,3 
+Spain,Treixadura,17 ,87 ,3 
+Spain,Tinta del Toro,23 ,86 ,3 
+Spain,Malvasia-Viura,18 ,85 ,3 
+Spain,Moscatel de Alejandr√≠a,19 ,85 ,3 
+Spain,Airen,9 ,82 ,3 
+Turkey,Bordeaux-style Red Blend,29 ,88 ,3 
+Turkey,Ros√©,16 ,88 ,3 
+Turkey,Papaskarasi,21 ,87 ,3 
+United States,Ugni Blanc,27 ,91 ,3 
+United States,Sherry,22 ,90 ,3 
+United States,Trousseau Gris,24 ,90 ,3 
+United States,Cabernet Sauvignon-Malbec,37 ,89 ,3 
+United States,Gew√ºrztraminer-Riesling,30 ,89 ,3 
+United States,Touriga,46 ,89 ,3 
+United States,Edelzwicker,20 ,88 ,3 
+United States,Mataro,23 ,87 ,3 
+United States,Souzao,28 ,87 ,3 
+United States,Chardonnay-Semillon,21 ,86 ,3 
+United States,Trebbiano,21 ,86 ,3 
+United States,Vidal,18 ,86 ,3 
+United States,Jacquez,34 ,85 ,3 
+Uruguay,Ros√©,18 ,84 ,3 
+Uruguay,Chardonnay,14 ,81 ,3 
+Argentina,Malbec Blend,67 ,91 ,2 
+Argentina,Malbec-Tempranillo,11 ,87 ,2 
+Argentina,Cabernet Sauvignon-Syrah,15 ,86 ,2 
+Argentina,Riesling,15 ,86 ,2 
+Argentina,Chardonnay-Sauvignon,13 ,85 ,2 
+Argentina,Chenin Blanc,16 ,84 ,2 
+Argentina,Sangiovese,18 ,82 ,2 
+Australia,Cabernet Sauvignon-Merlot-Shiraz,20 ,91 ,2 
+Australia,Shiraz-Malbec,20 ,90 ,2 
+Australia,Shiraz-Mourv√®dre,19 ,89 ,2 
+Australia,Marsanne-Roussanne,43 ,88 ,2 
+Australia,Savagnin,15 ,88 ,2 
+Australia,Durif,33 ,86 ,2 
+Austria,Rosenmuskateller,150 ,93 ,2 
+Austria,Furmint,15 ,92 ,2 
+Austria,Bordeaux-style Red Blend,37 ,91 ,2 
+Austria,Chardonnay-Pinot Blanc,48 ,91 ,2 
+Austria,Sauvignon,26 ,89 ,2 
+Austria,Moscato,19 ,87 ,2 
+Brazil,Moscatel,23 ,87 ,2 
+Brazil,Merlot-Cabernet Sauvignon,39 ,86 ,2 
+Brazil,Pinot Noir,25 ,86 ,2 
+Brazil,Bordeaux-style Red Blend,23 ,84 ,2 
+Bulgaria,Bordeaux-style Red Blend,28 ,91 ,2 
+Bulgaria,Cabernet Franc,19 ,88 ,2 
+Canada,Viognier,24 ,88 ,2 
+Chile,Sauvignon Blanc-Semillon,12 ,88 ,2 
+Chile,S√©millon,16 ,87 ,2 
+Chile,Cabernet Franc-Carmen√®re,12 ,86 ,2 
+Chile,Tempranillo,18 ,86 ,2 
+Chile,Malbec-Syrah,13 ,84 ,2 
+Croatia,Zlahtina,15 ,86 ,2 
+Croatia,Ros√©,21 ,85 ,2 
+Croatia,Welschriesling,14 ,85 ,2 
+CyprUnited States,Xynisteri,19 ,87 ,2 
+Czech Republic,Red Blend,45 ,89 ,2 
+Czech Republic,Cabernet Moravia,18 ,87 ,2 
+Czech Republic,Sauvignon Blanc,16 ,86 ,2 
+England,White Blend,45 ,89 ,2 
+France,Verdelho,,92 ,2 
+France,Grenache-Carignan,20 ,90 ,2 
+France,Abouriou,15 ,89 ,2 
+France,Nielluciu,23 ,89 ,2 
+France,Cabernet Sauvignon-Syrah,14 ,88 ,2 
+France,Chardonnay-Sauvignon Blanc,16 ,88 ,2 
+France,Pinot Blanc-Chardonnay,25 ,88 ,2 
+France,Shiraz,21 ,88 ,2 
+France,Gamay Noir,19 ,87 ,2 
+France,Merlot-Malbec,14 ,87 ,2 
+France,Sacy,19 ,87 ,2 
+France,Sauvignon Gris,14 ,87 ,2 
+France,Moscato,8 ,86 ,2 
+France,Muscat Blanc √† Petits Grains,12 ,86 ,2 
+France,Syrah-Merlot,11 ,86 ,2 
+Georgia,Other,27 ,89 ,2 
+Georgia,Saperavi-Merlot,18 ,87 ,2 
+Georgia,Chinuri,23 ,86 ,2 
+Germany,Bacchus,,91 ,2 
+Germany,Trollinger,22 ,91 ,2 
+Germany,M√ºller-Thurgau,19 ,90 ,2 
+Germany,Auxerrois,20 ,89 ,2 
+Germany,Chardonnay-Pinot Blanc,25 ,87 ,2 
+Germany,Rivaner,17 ,87 ,2 
+Greece,Mandilaria,25 ,89 ,2 
+Greece,Plyto,20 ,87 ,2 
+Greece,Cabernet Blend,30 ,85 ,2 
+Greece,Muscat of Alexandria,17 ,85 ,2 
+Greece,Traminer,18 ,85 ,2 
+Hungary,H√°rslevel√º,28 ,90 ,2 
+Hungary,Syrah,25 ,89 ,2 
+Hungary,Kadarka,24 ,88 ,2 
+India,Sauvignon Blanc,12 ,90 ,2 
+Israel,Petit Verdot,53 ,91 ,2 
+Israel,Chenin Blanc,30 ,88 ,2 
+Israel,Cabernet Blend,65 ,87 ,2 
+Israel,Sparkling Blend,29 ,87 ,2 
+Israel,Rh√¥ne-style White Blend,20 ,85 ,2 
+Israel,Tempranillo,21 ,83 ,2 
+Italy,Roviello,28 ,93 ,2 
+Italy,Sirica,23 ,93 ,2 
+Italy,Cabernet Sauvignon-Merlot,62 ,92 ,2 
+Italy,Nasco,38 ,91 ,2 
+Italy,Torbato,20 ,91 ,2 
+Italy,Vitovska,85 ,91 ,2 
+Italy,Bordeaux-style Red Blend,57 ,90 ,2 
+Italy,Cesanese,20 ,90 ,2 
+Italy,Mondeuse,48 ,90 ,2 
+Italy,Moscato Rosa,34 ,90 ,2 
+Italy,Malbec,30 ,89 ,2 
+Italy,Albarossa,40 ,88 ,2 
+Italy,Rebo,27 ,88 ,2 
+Italy,Uvalino,29 ,88 ,2 
+Italy,Vespolina,25 ,88 ,2 
+Italy,Ansonica,26 ,87 ,2 
+Italy,Bombino Bianco,30 ,87 ,2 
+Italy,Freisa,21 ,87 ,2 
+Italy,Groppello,23 ,87 ,2 
+Italy,Malvasia di Candia,23 ,87 ,2 
+Italy,Grignolino,17 ,86 ,2 
+Italy,Pigato,23 ,84 ,2 
+Italy,Gragnano,17 ,83 ,2 
+Lebanon,Syrah-Cabernet Sauvignon,35 ,91 ,2 
+Luxembourg,Sparkling Blend,28 ,89 ,2 
+Luxembourg,Riesling,23 ,88 ,2 
+Mexico,Muscatel,19 ,87 ,2 
+Mexico,White Blend,20 ,86 ,2 
+Mexico,Ros√©,23 ,83 ,2 
+Mexico,Tempranillo,24 ,83 ,2 
+Moldova,Bordeaux-style Red Blend,35 ,90 ,2 
+Moldova,Rara Neagra,18 ,90 ,2 
+Moldova,Traminer,13 ,89 ,2 
+Moldova,Chardonnay,20 ,87 ,2 
+Moldova,Feteasc«é Regal«é,11 ,87 ,2 
+Moldova,Merlot,9 ,87 ,2 
+Moldova,Pinot Gris,9 ,86 ,2 
+New Zealand,Cabernet Merlot,25 ,90 ,2 
+New Zealand,Merlot-Cabernet,29 ,88 ,2 
+New Zealand,Cabernet Sauvignon,18 ,87 ,2 
+New Zealand,Sauvignon,15 ,85 ,2 
+Peru,Malbec,15 ,85 ,2 
+Peru,White Blend,10 ,83 ,2 
+Portugal,Baga-Touriga Nacional,40 ,91 ,2 
+Portugal,Petite Verdot,33 ,91 ,2 
+Portugal,Tinta Cao,14 ,90 ,2 
+Portugal,Gouveio,23 ,89 ,2 
+Portugal,Rabigato,34 ,89 ,2 
+Portugal,Madeira Blend,49 ,88 ,2 
+Portugal,Malvasia Fina,24 ,88 ,2 
+Portugal,Maria Gomes,11 ,88 ,2 
+Portugal,Moscatel Gra√∫do,13 ,88 ,2 
+Portugal,Muscat,9 ,87 ,2 
+Portugal,Gew√ºrztraminer,20 ,85 ,2 
+Romania,TƒÉm√¢ioasƒÉ Rom√¢neascƒÉ,11 ,88 ,2 
+Serbia,Tamjanika,18 ,88 ,2 
+Serbia,Portuguiser,15 ,86 ,2 
+Slovenia,Teran,22 ,89 ,2 
+Slovenia,Ros√©,24 ,88 ,2 
+Slovenia,Malvasia Istriana,30 ,87 ,2 
+Slovenia,Moscato,11 ,87 ,2 
+South Africa,Muscat,70 ,95 ,2 
+South Africa,Bordeaux-style White Blend,55 ,91 ,2 
+South Africa,Cinsault,58 ,91 ,2 
+South Africa,Grenache-Syrah,65 ,91 ,2 
+South Africa,Sauvignon Blanc-Semillon,31 ,91 ,2 
+South Africa,Semillon-Sauvignon Blanc,30 ,91 ,2 
+South Africa,G-S-M,44 ,89 ,2 
+South Africa,Syrah-Viognier,20 ,89 ,2 
+South Africa,Cabernet Blend,47 ,88 ,2 
+South Africa,Sauvignon Blanc-Chenin Blanc,13 ,87 ,2 
+Spain,Tinta del Pais,48 ,95 ,2 
+Spain,Cari√±ena-Garnacha,31 ,90 ,2 
+Spain,Syrah-Petit Verdot,35 ,90 ,2 
+Spain,Garnacha Blend,19 ,88 ,2 
+Spain,Monastrell-Petit Verdot,20 ,88 ,2 
+Spain,Shiraz,14 ,88 ,2 
+Spain,Shiraz-Cabernet Sauvignon,36 ,88 ,2 
+Spain,Petite Verdot,40 ,87 ,2 
+Spain,Rufete,29 ,86 ,2 
+Spain,Rh√¥ne-style Red Blend,16 ,85 ,2 
+Spain,Sauvignon Blanc-Chardonnay,13 ,85 ,2 
+Spain,Viura-Verdejo,12 ,85 ,2 
+Spain,Shiraz-Tempranillo,9 ,82 ,2 
+Turkey,Cabernet Sauvignon,32 ,89 ,2 
+Turkey,√áalkarasƒ±,19 ,87 ,2 
+Turkey,White Blend,15 ,86 ,2 
+Turkey,Yapincak,18 ,86 ,2 
+Ukraine,Merlot,8 ,84 ,2 
+United States,Chardonnay-Albari√±o,31 ,92 ,2 
+United States,Sauvignon Gris,40 ,92 ,2 
+United States,Tempranillo-Cabernet Sauvignon,78 ,92 ,2 
+United States,Black Monukka,25 ,91 ,2 
+United States,Grenache Noir,38 ,91 ,2 
+United States,Malbec-Tannat,50 ,91 ,2 
+United States,Mourv√®dre-Syrah,57 ,91 ,2 
+United States,Pinot Noir-Syrah,52 ,91 ,2 
+United States,Viognier-Grenache Blanc,31 ,91 ,2 
+United States,Scheurebe,50 ,90 ,2 
+United States,Carignan-Grenache,28 ,89 ,2 
+United States,Debit,130 ,89 ,2 
+United States,Falanghina,29 ,89 ,2 
+United States,Cabernet Pfeffer,30 ,88 ,2 
+United States,Muscat Hamburg,22 ,88 ,2 
+United States,Viognier-Marsanne,22 ,88 ,2 
+United States,Cabernet Franc-Lemberger,20 ,87 ,2 
+United States,Malbec-Syrah,78 ,87 ,2 
+United States,Marsanne-Viognier,28 ,87 ,2 
+United States,Morio Muskat,17 ,87 ,2 
+United States,Tempranillo-Garnacha,27 ,87 ,2 
+United States,Madeleine Angevine,18 ,86 ,2 
+United States,Muscadine,23 ,86 ,2 
+United States,Negrette,33 ,86 ,2 
+United States,Ribolla Gialla,27 ,86 ,2 
+United States,Roussanne-Marsanne,24 ,86 ,2 
+United States,Viognier-Chardonnay,37 ,86 ,2 
+United States,Viognier-Gew√ºrztraminer,15 ,86 ,2 
+United States,Cayuga,16 ,85 ,2 
+United States,Chelois,23 ,85 ,2 
+United States,Cortese,18 ,85 ,2 
+United States,Marquette,18 ,85 ,2 
+United States,Chancellor,16 ,81 ,2 
+Uruguay,Tannat-Cabernet Franc,19 ,90 ,2 
+Uruguay,Cabernet Sauvignon,19 ,87 ,2 
+Uruguay,Malbec,17 ,87 ,2 
+Uruguay,Cabernet Franc,20 ,85 ,2 
+Argentina,Tempranillo-Malbec,,91 ,1 
+Argentina,Shiraz-Malbec,16 ,90 ,1 
+Argentina,Syrah-Malbec,14 ,89 ,1 
+Argentina,Cabernet-Syrah,16 ,88 ,1 
+Argentina,Trousseau,60 ,88 ,1 
+Argentina,Merlot-Cabernet Franc,27 ,87 ,1 
+Argentina,Syrah-Bonarda,13 ,87 ,1 
+Argentina,Cabernet-Malbec,11 ,86 ,1 
+Argentina,Barbera,18 ,85 ,1 
+Argentina,Tocai,14 ,85 ,1 
+Argentina,Cabernet Sauvignon-Cabernet Franc,18 ,84 ,1 
+Argentina,Gew√ºrztraminer,25 ,84 ,1 
+Argentina,Bordeaux-style White Blend,14 ,83 ,1 
+Argentina,Trebbiano,9 ,83 ,1 
+Argentina,Chardonnay-Semillon,13 ,81 ,1 
+Argentina,Moscatel,11 ,81 ,1 
+Armenia,Ros√©,15 ,88 ,1 
+Armenia,Kangoun,14 ,87 ,1 
+Australia,Cabernet-Shiraz,150 ,96 ,1 
+Australia,Mourv√®dre-Syrah,18 ,92 ,1 
+Australia,Montepulciano,25 ,91 ,1 
+Australia,Muscat Hamburg,22 ,90 ,1 
+Australia,Shiraz-Roussanne,29 ,90 ,1 
+Australia,Viognier-Marsanne,17 ,89 ,1 
+Australia,Cabernet Sauvignon-Sangiovese,30 ,88 ,1 
+Australia,Petit Verdot,20 ,88 ,1 
+Australia,Port,13 ,88 ,1 
+Australia,Sauvignon,30 ,88 ,1 
+Australia,Chenin Blanc,16 ,87 ,1 
+Australia,Semillon-Chardonnay,8 ,85 ,1 
+Austria,Gelber Traminer,35 ,95 ,1 
+Austria,Chardonnay Weissburgunder,58 ,94 ,1 
+Austria,Blauburgunder,19 ,93 ,1 
+Austria,Cabernet Franc,47 ,92 ,1 
+Austria,Cabernet Franc-Merlot,60 ,92 ,1 
+Austria,Shiraz,45 ,91 ,1 
+Austria,Orangetraube,22 ,90 ,1 
+Austria,Pinot Blanc-Chardonnay,23 ,90 ,1 
+Austria,Gros Manseng,25 ,89 ,1 
+Austria,Nielluciu,24 ,89 ,1 
+Austria,Syrah,13 ,89 ,1 
+Austria,Champagne Blend,23 ,88 ,1 
+Austria,Cabernet Merlot,,87 ,1 
+Austria,Muskateller,23 ,86 ,1 
+Bosnia and Herzegovina,Blatina,12 ,88 ,1 
+Bosnia and Herzegovina,Vranec,13 ,85 ,1 
+Brazil,Cabernet Franc,,84 ,1 
+Brazil,Cabernet Sauvignon-Merlot,20 ,83 ,1 
+Bulgaria,Cabernet Sauvignon-Syrah,14 ,90 ,1 
+Bulgaria,Gamza,11 ,89 ,1 
+Bulgaria,Malbec,40 ,89 ,1 
+Bulgaria,Merlot-Syrah,18 ,89 ,1 
+Bulgaria,Tamianka,20 ,89 ,1 
+Bulgaria,Pinot Grigio,9 ,88 ,1 
+Bulgaria,Muscat,10 ,87 ,1 
+Canada,Malbec,32 ,92 ,1 
+Canada,Moscato,20 ,92 ,1 
+Canada,Muscat,18 ,91 ,1 
+Canada,Carmen√®re,50 ,90 ,1 
+Canada,Chasselas,20 ,90 ,1 
+Canada,Chenin Blanc,19 ,90 ,1 
+Canada,Apple,33 ,89 ,1 
+Canada,Cabernet Merlot,50 ,89 ,1 
+Canada,Cabernet,40 ,88 ,1 
+Canada,Cabernet Sauvignon-Syrah,40 ,88 ,1 
+Canada,Gamay Noir,24 ,88 ,1 
+Canada,Gew√ºrztraminer-Riesling,12 ,83 ,1 
+Chile,Mourv√®dre,30 ,92 ,1 
+Chile,Syrah-Carignan,35 ,92 ,1 
+Chile,Torontel,40 ,92 ,1 
+Chile,Malbec-Carm√©n√®re,43 ,91 ,1 
+Chile,Syrah-Cabernet Franc,60 ,91 ,1 
+Chile,Rh√¥ne-style Red Blend,23 ,90 ,1 
+Chile,Syrah-Merlot,20 ,89 ,1 
+Chile,(blank),17 ,88 ,1 
+Chile,Gew√ºrztraminer-Riesling,11 ,88 ,1 
+Chile,Moscatel,13 ,88 ,1 
+Chile,Muscatel,15 ,88 ,1 
+Chile,Rh√¥ne-style White Blend,15 ,87 ,1 
+Chile,Malbec-Cabernet Sauvignon,15 ,86 ,1 
+Chile,Merlot-Cabernet,15 ,86 ,1 
+Chile,Muscat d'Alexandrie,15 ,84 ,1 
+Chile,Pa√≠s,18 ,83 ,1 
+Chile,Pinot Noir-Syrah,12 ,83 ,1 
+Chile,Shiraz-Cabernet Sauvignon,9 ,83 ,1 
+China,Cabernet Blend,18 ,89 ,1 
+Croatia,Zweigelt,25 ,90 ,1 
+Croatia,Debit,35 ,89 ,1 
+Croatia,Gra≈°evina,20 ,89 ,1 
+Croatia,Bordeaux-style Red Blend,13 ,88 ,1 
+Croatia,Grenache,19 ,88 ,1 
+Croatia,Muscat,15 ,88 ,1 
+Croatia,Traminer,13 ,87 ,1 
+Croatia,Blaufr√§nkisch,13 ,84 ,1 
+Croatia,Pinot Noir,13 ,84 ,1 
+Croatia,Pinot Gris,,83 ,1 
+Croatia,Sauvignon Blanc,,82 ,1 
+CyprUnited States,Xinisteri,20 ,89 ,1 
+Czech Republic,Ryzlink R√Ωnsk√Ω,40 ,89 ,1 
+Czech Republic,Frankovka,24 ,88 ,1 
+Czech Republic,Riesling,15 ,88 ,1 
+Czech Republic,St. Laurent,15 ,88 ,1 
+Czech Republic,Rivaner,15 ,87 ,1 
+Czech Republic,Welschriesling,25 ,85 ,1 
+Egypt,Grenache,,84 ,1 
+France,Grenache-Mourv√®dre,60 ,92 ,1 
+France,Petit Verdot,40 ,92 ,1 
+France,Prunelard,23 ,91 ,1 
+France,Roussanne-Marsanne,40 ,91 ,1 
+France,Carignan-Grenache,17 ,90 ,1 
+France,Edelzwicker,19 ,90 ,1 
+France,Ondenc,15 ,90 ,1 
+France,Biancu Gentile,,89 ,1 
+France,Merlot-Grenache,10 ,89 ,1 
+France,Petit Meslier,,89 ,1 
+France,Tokay Pinot Gris,30 ,89 ,1 
+France,Carcajolu,21 ,88 ,1 
+France,Clairette,12 ,88 ,1 
+France,Malbec Blend,,88 ,1 
+France,Merlot-Cabernet,12 ,88 ,1 
+France,Merlot-Cabernet Franc,23 ,88 ,1 
+France,Muscadel,30 ,88 ,1 
+France,Muscat d'Alexandrie,16 ,88 ,1 
+France,Petit Courbu,19 ,88 ,1 
+France,Grenache Gris,22 ,87 ,1 
+France,Marselan,12 ,87 ,1 
+France,Grenache Noir,9 ,86 ,1 
+France,Gros Plant,16 ,86 ,1 
+France,Sauvignon Blanc-Sauvignon Gris,,86 ,1 
+France,Sauvignon Blanc-Semillon,12 ,86 ,1 
+France,Sauvignon-S√©millon,12 ,86 ,1 
+France,Semillon-Sauvignon Blanc,15 ,86 ,1 
+France,Syrah-Cabernet,24 ,86 ,1 
+France,Cabernet,13 ,85 ,1 
+France,Cabernet Merlot,12 ,85 ,1 
+France,Chardonnay-Pinot Gris,17 ,85 ,1 
+France,Ekiga√Øna,,85 ,1 
+France,Folle Blanche,16 ,85 ,1 
+France,Malbec-Cabernet Franc,30 ,85 ,1 
+France,Cabernet Blend,13 ,84 ,1 
+France,Petite Verdot,25 ,84 ,1 
+Georgia,Ros√©,12 ,86 ,1 
+Germany,Chardonnay Weissburgunder,25 ,90 ,1 
+Germany,Fr√ºburgunder,40 ,90 ,1 
+Germany,Schwartzriesling,25 ,90 ,1 
+Germany,Traminer,48 ,88 ,1 
+Germany,Gew√ºrztraminer-Riesling,25 ,86 ,1 
+Germany,Silvaner-Traminer,25 ,86 ,1 
+Greece,Kotsifali,13 ,92 ,1 
+Greece,Sauvignon Blanc-Assyrtiko,20 ,92 ,1 
+Greece,Mavrotragano,50 ,90 ,1 
+Greece,Cabernet Sauvignon-Syrah,19 ,88 ,1 
+Greece,Roditis-Moschofilero,11 ,88 ,1 
+Greece,Tannat,21 ,88 ,1 
+Greece,Thrapsathiri,25 ,88 ,1 
+Greece,Cabernet Sauvignon Grenache,23 ,87 ,1 
+Greece,Mavroudi,12 ,87 ,1 
+Greece,Malagouzia-Chardonnay,8 ,86 ,1 
+Greece,Mavrokalavryta,15 ,86 ,1 
+Greece,Dafni,20 ,85 ,1 
+Greece,Malvasia,45 ,85 ,1 
+Greece,Moschofilero-Chardonnay,13 ,85 ,1 
+Greece,Sideritis,23 ,85 ,1 
+Greece,Athiri,18 ,83 ,1 
+Greece,Aidani,27 ,82 ,1 
+Hungary,Muscat Blanc,18 ,90 ,1 
+Hungary,Pinot Noir,25 ,90 ,1 
+Hungary,Cabernet Blend,78 ,89 ,1 
+Hungary,Chardonnay,25 ,89 ,1 
+Hungary,Merlot,76 ,89 ,1 
+Hungary,Blauburger,17 ,87 ,1 
+Hungary,Gr√ºner Veltliner,11 ,87 ,1 
+Hungary,Irsai Oliver,13 ,87 ,1 
+Hungary,Pinot Gris,13 ,87 ,1 
+Hungary,Blauer Portugieser,15 ,86 ,1 
+Hungary,Blaufr√§nkisch,12 ,85 ,1 
+Israel,Cabernet Sauvignon-Cabernet Franc,45 ,92 ,1 
+Israel,Cabernet Franc-Cabernet Sauvignon,38 ,90 ,1 
+Israel,Pinot Gris,15 ,90 ,1 
+Israel,Riesling,15 ,90 ,1 
+Israel,Sangiovese,15 ,90 ,1 
+Israel,Syrah-Viognier,50 ,90 ,1 
+Israel,Chardonnay-Sauvignon,11 ,89 ,1 
+Israel,White Riesling,26 ,89 ,1 
+Israel,Pinotage,25 ,88 ,1 
+Israel,Roussanne-Marsanne,50 ,88 ,1 
+Israel,Syrah-Merlot,38 ,88 ,1 
+Israel,Fum√© Blanc,15 ,86 ,1 
+Israel,Sauvignon Blanc-Semillon,30 ,86 ,1 
+Israel,Merlot-Argaman,12 ,85 ,1 
+Israel,Merlot-Cabernet Sauvignon,,85 ,1 
+Italy,Caprettone,19 ,92 ,1 
+Italy,Centesimino,36 ,92 ,1 
+Italy,Moscato di Noto,40 ,92 ,1 
+Italy,Pignolo,70 ,92 ,1 
+Italy,Vespaiolo,40 ,92 ,1 
+Italy,Francisa,160 ,91 ,1 
+Italy,Carmen√®re,40 ,90 ,1 
+Italy,Favorita,40 ,90 ,1 
+Italy,Grenache,230 ,90 ,1 
+Italy,Catalanesca,19 ,89 ,1 
+Italy,Malvar,35 ,88 ,1 
+Italy,Roscetto,,88 ,1 
+Italy,Vermentino Nero,45 ,88 ,1 
+Italy,Bombino Nero,11 ,87 ,1 
+Italy,Molinara,25 ,87 ,1 
+Italy,Silvaner,,87 ,1 
+Italy,Tintilia ,25 ,87 ,1 
+Italy,Albanello,20 ,86 ,1 
+Italy,Cabernet Sauvignon-Shiraz,10 ,86 ,1 
+Italy,Cococciola,20 ,86 ,1 
+Italy,Colorino,40 ,86 ,1 
+Italy,Franconia,16 ,86 ,1 
+Italy,Merlot-Cabernet,19 ,86 ,1 
+Italy,Muscat,10 ,86 ,1 
+Italy,S√©millon,15 ,86 ,1 
+Italy,Tannat,28 ,86 ,1 
+Italy,Teroldego Rotaliano,15 ,86 ,1 
+Italy,Biancale,18 ,85 ,1 
+Italy,Biancolella,26 ,85 ,1 
+Lebanon,Rh√¥ne-style Red Blend,27 ,91 ,1 
+Lebanon,Chardonnay,30 ,88 ,1 
+Luxembourg,Auxerrois,22 ,90 ,1 
+Luxembourg,White Blend,16 ,89 ,1 
+Macedonia,≈Ωilavka,15 ,88 ,1 
+Macedonia,Rkatsiteli,15 ,88 ,1 
+Macedonia,Sauvignon,15 ,88 ,1 
+Macedonia,Chardonnay,15 ,87 ,1 
+Macedonia,Red Blend,16 ,86 ,1 
+Macedonia,White Blend,15 ,85 ,1 
+Mexico,Syrah-Mourv√®dre,45 ,91 ,1 
+Mexico,Bordeaux-style Red Blend,40 ,88 ,1 
+Mexico,Cabernet Blend,20 ,87 ,1 
+Mexico,Cabernet Franc,39 ,86 ,1 
+Mexico,Cabernet Sauvignon-Merlot,23 ,86 ,1 
+Mexico,Rosado,17 ,86 ,1 
+Mexico,Sauvignon Blanc-Chenin Blanc,22 ,86 ,1 
+Mexico,Grenache,28 ,85 ,1 
+Mexico,Syrah,35 ,83 ,1 
+Mexico,Merlot,30 ,82 ,1 
+Mexico,Shiraz,23 ,82 ,1 
+Mexico,Cinsault,15 ,80 ,1 
+Moldova,Riesling,23 ,90 ,1 
+Moldova,Ros√©,16 ,90 ,1 
+Moldova,Feteasca,13 ,88 ,1 
+Moldova,Feteasca Neagra,12 ,88 ,1 
+Moldova,Merlot-Cabernet Sauvignon,16 ,87 ,1 
+Moldova,Moscato,10 ,85 ,1 
+Moldova,Sparkling Blend,13 ,85 ,1 
+Moldova,Champagne Blend,12 ,83 ,1 
+Moldova,Saperavi,13 ,82 ,1 
+Morocco,Cabernet Blend,18 ,89 ,1 
+Morocco,Cabernet Sauvignon Grenache,14 ,89 ,1 
+New Zealand,Champagne Blend,35 ,91 ,1 
+New Zealand,White Blend,16 ,90 ,1 
+New Zealand,Merlot-Cabernet Franc,39 ,89 ,1 
+New Zealand,Red Blend,30 ,89 ,1 
+New Zealand,Malbec,18 ,88 ,1 
+New Zealand,Semillon-Sauvignon Blanc,14 ,82 ,1 
+Peru,Malbec-Merlot,17 ,85 ,1 
+Peru,Tannat,14 ,85 ,1 
+Peru,Cabernet Sauvignon-Syrah,17 ,84 ,1 
+Peru,Petit Verdot,20 ,84 ,1 
+Peru,Sauvignon Blanc,14 ,84 ,1 
+Peru,Chardonnay,14 ,82 ,1 
+Peru,Syrah,14 ,81 ,1 
+Peru,Sparkling Blend,15 ,80 ,1 
+Portugal,Terrantez,236 ,95 ,1 
+Portugal,Sercial,50 ,94 ,1 
+Portugal,Ramisco,495 ,93 ,1 
+Portugal,Tinta Negra Mole,112 ,92 ,1 
+Portugal,Cabernet Sauvignon-Syrah,22 ,90 ,1 
+Portugal,Vital,,90 ,1 
+Portugal,Alvarelh√£o,24 ,88 ,1 
+Portugal,Cercial,50 ,88 ,1 
+Portugal,Jampal,25 ,88 ,1 
+Portugal,Malvasia,30 ,88 ,1 
+Portugal,Merlot-Syrah,24 ,88 ,1 
+Portugal,Viognier-Chardonnay,,88 ,1 
+Portugal,Bastardo,32 ,86 ,1 
+Portugal,Cabernet Blend,13 ,86 ,1 
+Portugal,Chardonnay-Viognier,20 ,86 ,1 
+Portugal,Loureiro-Arinto,10 ,86 ,1 
+Portugal,Maria Gomes-Bical,25 ,86 ,1 
+Portugal,Rosado,13 ,86 ,1 
+Portugal,Trajadura,7 ,86 ,1 
+Portugal,White Port,,86 ,1 
+Portugal,Espadeiro,,84 ,1 
+Portugal,Gew√ºrztraminer-Riesling,28 ,82 ,1 
+Romania,Sauvignon,18 ,89 ,1 
+Romania,Muskat Ottonel,11 ,88 ,1 
+Romania,Feteasca,22 ,87 ,1 
+Romania,Gew√ºrztraminer,8 ,86 ,1 
+Romania,Ros√©,9 ,82 ,1 
+Serbia,Blauer Portugieser,16 ,87 ,1 
+Serbia,Morava,26 ,87 ,1 
+Slovakia,Riesling,16 ,87 ,1 
+Slovenia,Merlot-Cabernet Franc,60 ,90 ,1 
+Slovenia,Sauvignonasse,25 ,90 ,1 
+Slovenia,Vitovska,23 ,90 ,1 
+Slovenia,Cabernet Franc,35 ,89 ,1 
+Slovenia,Cabernet Sauvignon-Merlot,44 ,89 ,1 
+Slovenia,Merlot,37 ,89 ,1 
+Slovenia,Zelen,,88 ,1 
+Slovenia,Refosco,18 ,86 ,1 
+Slovenia,Traminer,20 ,85 ,1 
+Slovenia,Furmint,20 ,83 ,1 
+South Africa,Roussanne,,93 ,1 
+South Africa,Roussanne-Marsanne,,91 ,1 
+South Africa,Syrah-Cabernet Sauvignon,75 ,91 ,1 
+South Africa,Tinta Barroca,53 ,91 ,1 
+South Africa,Chenin Blanc-Viognier,35 ,90 ,1 
+South Africa,Clairette,,90 ,1 
+South Africa,Gew√ºrztraminer,18 ,89 ,1 
+South Africa,Fum√© Blanc,13 ,88 ,1 
+South Africa,Shiraz-Mourv√®dre,16 ,88 ,1 
+South Africa,Syrah-Mourv√®dre,13 ,88 ,1 
+South Africa,Cabernet,12 ,87 ,1 
+South Africa,Cabernet Sauvignon-Cabernet Franc,26 ,87 ,1 
+South Africa,Cabernet Sauvignon-Merlot-Shiraz,10 ,87 ,1 
+South Africa,Chardonnay-Viognier,10 ,87 ,1 
+South Africa,Mourv√®dre,13 ,87 ,1 
+South Africa,Viognier-Grenache Blanc,35 ,87 ,1 
+South Africa,Merlot-Shiraz,18 ,86 ,1 
+South Africa,Merlot-Cabernet Franc,,84 ,1 
+South Africa,Pinotage-Merlot,10 ,84 ,1 
+South Africa,Syrah-Cabernet,10 ,82 ,1 
+Spain,Garnacha-Cari√±ena,57 ,93 ,1 
+Spain,Babosa Negro,45 ,92 ,1 
+Spain,Meseguera,35 ,91 ,1 
+Spain,Muscat of Alexandria,26 ,91 ,1 
+Spain,Cabernet Sauvignon-Shiraz,40 ,90 ,1 
+Spain,Mataro,40 ,90 ,1 
+Spain,Touriga Nacional Blend,144 ,90 ,1 
+Spain,Cabernet Sauvignon-Cabernet Franc,30 ,89 ,1 
+Spain,Syrah-Merlot,20 ,89 ,1 
+Spain,Vidadillo,24 ,89 ,1 
+Spain,Chardonnay-Sauvignon Blanc,12 ,87 ,1 
+Spain,Syrah-Tempranillo,15 ,87 ,1 
+Spain,Cabernet Franc,28 ,86 ,1 
+Spain,Jaen,20 ,86 ,1 
+Spain,Parraleta,14 ,86 ,1 
+Spain,Verdil,18 ,86 ,1 
+Spain,Garnacha-Cabernet,13 ,85 ,1 
+Spain,Macabeo-Moscatel,8 ,85 ,1 
+Spain,Merseguera-Sauvignon Blanc,9 ,85 ,1 
+Spain,Tinto Velasco,9 ,85 ,1 
+Spain,Bobal-Cabernet Sauvignon,9 ,84 ,1 
+Spain,Do√±a Blanca,53 ,84 ,1 
+Spain,Verdosilla,17 ,84 ,1 
+Spain,Alicante Bouschet,10 ,83 ,1 
+Spain,Forcall√†,27 ,83 ,1 
+Spain,Paralleda,11 ,83 ,1 
+Spain,Premsal,15 ,83 ,1 
+Spain,Picapoll,21 ,82 ,1 
+Spain,Riesling,20 ,82 ,1 
+Spain,Tempranillo-Syrah,12 ,82 ,1 
+Spain,Malvar,12 ,81 ,1 
+Turkey,Syrah-Merlot,30 ,90 ,1 
+Turkey,Chardonnay,17 ,89 ,1 
+Turkey,Karasakiz,15 ,89 ,1 
+Turkey,Sauvignon Blanc,18 ,89 ,1 
+Turkey,Cabernet Sauvignon-Merlot,16 ,87 ,1 
+Turkey,Karalahna,15 ,87 ,1 
+Turkey,Kuntra,15 ,86 ,1 
+Turkey,Merlot,120 ,86 ,1 
+Turkey,Misket,19 ,85 ,1 
+Turkey,Kinali Yapincak,15 ,84 ,1 
+Ukraine,Riesling,9 ,88 ,1 
+Ukraine,Muscat Hamburg,9 ,86 ,1 
+Ukraine,Bastardo,9 ,85 ,1 
+Ukraine,Chardonnay,9 ,85 ,1 
+Ukraine,Cabernet Sauvignon,6 ,84 ,1 
+Ukraine,Ros√©,6 ,84 ,1 
+United States,Moscato Giallo,16 ,94 ,1 
+United States,Riesling-Chardonnay,40 ,94 ,1 
+United States,Syrah-Petit Verdot,49 ,94 ,1 
+United States,Tannat-Syrah,40 ,93 ,1 
+United States,Touriga Nacional Blend,16 ,93 ,1 
+United States,Malbec-Cabernet Sauvignon,55 ,92 ,1 
+United States,White Port,40 ,92 ,1 
+United States,Muskat,28 ,91 ,1 
+United States,Roussanne-Grenache Blanc,16 ,91 ,1 
+United States,Tempranillo-Syrah,23 ,91 ,1 
+United States,Kerner,25 ,90 ,1 
+United States,Negroamaro,50 ,90 ,1 
+United States,Pinot Gris-Gew√ºrztraminer,20 ,90 ,1 
+United States,Syrah-Grenache-Viognier,45 ,90 ,1 
+United States,Tinta Amarela,30 ,90 ,1 
+United States,Apple,25 ,89 ,1 
+United States,Cabernet,19 ,89 ,1 
+United States,Clairette,30 ,89 ,1 
+United States,Garnacha Blanca,28 ,89 ,1 
+United States,Pinot Auxerrois,22 ,89 ,1 
+United States,Refosco,28 ,89 ,1 
+United States,Tinta Madeira,45 ,89 ,1 
+United States,Chardonnay-Pinot Blanc,26 ,88 ,1 
+United States,Madeira Blend,42 ,88 ,1 
+United States,Melon,15 ,88 ,1 
+United States,Piquepoul Blanc,13 ,88 ,1 
+United States,Syrah-Merlot,59 ,88 ,1 
+United States,Barbera-Nebbiolo,30 ,87 ,1 
+United States,Cabernet Sauvignon-Carmen√®re,85 ,87 ,1 
+United States,Cabernet Sauvignon-Tempranillo,18 ,87 ,1 
+United States,Chardonnay-Riesling,24 ,87 ,1 
+United States,Greco,20 ,87 ,1 
+United States,Merlot-Malbec,85 ,87 ,1 
+United States,Mondeuse,30 ,87 ,1 
+United States,Muscat Blanc √† Petits Grains,20 ,87 ,1 
+United States,Muscat d'Alexandrie,25 ,87 ,1 
+United States,Pinot Blanc-Viognier,19 ,87 ,1 
+United States,Pinot Grigio-Sauvignon Blanc,35 ,87 ,1 
+United States,Rosado,28 ,87 ,1 
+United States,Sangiovese Grosso,45 ,87 ,1 
+United States,Sauvignon Blanc-Chenin Blanc,16 ,87 ,1 
+United States,Sauvignon Musqu√©,18 ,87 ,1 
+United States,Valvin Muscat,13 ,87 ,1 
+United States,Cabernet Franc-Cabernet Sauvignon,22 ,86 ,1 
+United States,Cabernet-Shiraz,17 ,86 ,1 
+United States,Diamond,10 ,86 ,1 
+United States,Palomino,32 ,86 ,1 
+United States,Pinot Blanc-Chardonnay,21 ,86 ,1 
+United States,Pinot Nero,59 ,86 ,1 
+United States,Silvaner,14 ,86 ,1 
+United States,Abouriou,75 ,85 ,1 
+United States,Alvarelh√£o,18 ,85 ,1 
+United States,Malvasia,28 ,85 ,1 
+United States,Pinot Blanc-Pinot Noir,16 ,85 ,1 
+United States,St. Vincent,24 ,85 ,1 
+United States,Alvarinho,19 ,84 ,1 
+United States,Cabernet Sauvignon-Barbera,45 ,84 ,1 
+United States,Siegerrebe,15 ,84 ,1 
+United States,Viognier-Valdigui√©,17 ,84 ,1 
+United States,Cabernet Sauvignon-Shiraz,9 ,83 ,1 
+United States,Chardonel,11 ,83 ,1 
+United States,Merlot-Petite Verdot,20 ,83 ,1 
+United States,Prosecco,28 ,82 ,1 
+Uruguay,Tempranillo-Tannat,20 ,88 ,1 
+Uruguay,White Blend,15 ,87 ,1 
+Uruguay,Merlot,16 ,84 ,1 
+Uruguay,Sauvignon Blanc,16 ,84 ,1 
+Uruguay,Tannat-Syrah,16 ,84 ,1 
+All,Pinot Noir,29 ,88 ,13266 
+All,Chardonnay,24 ,87 ,11750 
+All,Cabernet Sauvignon,26 ,87 ,9470 
+All,Red Blend,30 ,88 ,8935 
+All,Bordeaux-style Red Blend,42 ,89 ,6914 
+All,Riesling,25 ,88 ,5188 
+All,Sauvignon Blanc,18 ,87 ,4963 
+All,Syrah,36 ,89 ,4142 
+All,Ros√©,16 ,86 ,3563 
+All,Merlot,32 ,87 ,3100 
+All,Nebbiolo,48 ,88 ,2803 
+All,Zinfandel,29 ,88 ,2714 
+All,Sangiovese,25 ,87 ,2707 
+All,Malbec,30 ,88 ,2652 
+All,Portuguese Red,25 ,89 ,2466 
+All,White Blend,21 ,87 ,2353 
+All,Sparkling Blend,24 ,87 ,2153 
+All,Tempranillo,24 ,86 ,1809 
+All,Rh√¥ne-style Red Blend,30 ,90 ,1470 
+All,Pinot Gris,19 ,88 ,1452 
+All,Champagne Blend,27 ,87 ,1396 
+All,Cabernet Franc,37 ,88 ,1352 
+All,Gr√ºner Veltliner,21 ,88 ,1345 
+All,Portuguese White,15 ,87 ,1159 
+All,Bordeaux-style White Blend,34 ,88 ,1066 
+All,Pinot Grigio,13 ,86 ,1051 
+All,Gamay,27 ,88 ,1025 
+All,Gew√ºrztraminer,21 ,87 ,1011 
+All,Viognier,25 ,87 ,996 
+All,Shiraz,23 ,88 ,835 
+All,Petite Sirah,26 ,87 ,770 
+All,Sangiovese Grosso,55 ,89 ,751 
+All,Barbera,23 ,87 ,721 
+All,Glera,20 ,87 ,709 
+All,Port,40 ,89 ,668 
+All,Grenache,57 ,88 ,651 
+All,"Corvina, Rondinella, Molinara",48 ,88 ,619 
+All,Chenin Blanc,20 ,88 ,591 
+All,Tempranillo Blend,31 ,88 ,588 
+All,Carmen√®re,36 ,89 ,575 
+All,Albari√±o,22 ,87 ,477 
+All,Pinot Blanc,22 ,88 ,442 
+All,Rh√¥ne-style White Blend,25 ,88 ,425 
+All,Nero d'Avola,26 ,88 ,365 
+All,Aglianico,35 ,89 ,359 
+All,Moscato,12 ,86 ,358 
+All,Garnacha,26 ,87 ,326 
+All,Sauvignon,21 ,88 ,316 
+All,Verdejo,17 ,86 ,294 
+All,Melon,16 ,88 ,280 
+All,Garganega,21 ,88 ,270 
+All,Petit Verdot,38 ,89 ,269 
+All,Meritage,39 ,90 ,260 
+All,Torront√©s,20 ,88 ,250 
+All,Prosecco,24 ,84 ,236 
+All,Blaufr√§nkisch,21 ,87 ,232 
+All,Vermentino,21 ,88 ,232 
+All,Mourv√®dre,34 ,90 ,229 
+All,Primitivo,25 ,87 ,222 
+All,Montepulciano,27 ,88 ,215 
+All,Zweigelt,25 ,89 ,209 
+All,Touriga Nacional,29 ,88 ,200 
+All,G-S-M,33 ,89 ,181 
+All,Pinot Nero,47 ,88 ,181 
+All,Dolcetto,23 ,87 ,180 
+All,Menc√≠a,28 ,89 ,178 
+All,Tannat,25 ,87 ,176 
+All,Roussanne,35 ,90 ,168 
+All,Tinta de Toro,45 ,90 ,166 
+All,Verdicchio,22 ,88 ,164 
+All,Turbiana,24 ,89 ,157 
+All,Pinot Bianco,25 ,88 ,154 
+All,Fiano,25 ,88 ,151 
+All,Monastrell,24 ,89 ,147 
+All,Vernaccia,19 ,87 ,138 
+All,Grillo,18 ,87 ,137 
+All,Alvarinho,19 ,87 ,137 
+All,Pinotage,26 ,87 ,137 
+All,S√©millon,23 ,88 ,135 
+All,Muscat,25 ,88 ,132 
+All,Grenache Blanc,29 ,89 ,131 
+All,Friulano,24 ,88 ,122 
+All,Greco,23 ,88 ,121 
+All,Cabernet Sauvignon-Merlot,26 ,88 ,117 
+All,Nerello Mascalese,41 ,90 ,117 
+All,Viura,15 ,85 ,107 
+All,Bonarda,17 ,87 ,105 
+All,Sagrantino,50 ,89 ,104 
+All,Rosato,19 ,88 ,103 
+All,Cabernet Sauvignon-Syrah,23 ,88 ,102 
+All,Sherry,29 ,90 ,100 
+All,Tinto Fino,64 ,90 ,100 
+All,Malbec-Merlot,21 ,87 ,96 
+All,St. Laurent,28 ,88 ,92 
+All,Falanghina,25 ,88 ,89 
+All,Ribolla Gialla,25 ,87 ,87 
+All,Arneis,21 ,88 ,86 
+All,Godello,23 ,87 ,81 
+All,Lagrein,34 ,89 ,80 
+All,Negroamaro,34 ,89 ,80 
+All,Cabernet Blend,41 ,88 ,80 
+All,Austrian white blend,33 ,90 ,79 
+All,Arinto,16 ,87 ,77 
+All,Rosado,17 ,86 ,77 
+All,Carignan,59 ,90 ,77 
+All,Cortese,20 ,86 ,73 
+All,Sp√§tburgunder,61 ,90 ,72 
+All,Fum√© Blanc,17 ,87 ,70 
+All,Sauvignon Blanc-Semillon,23 ,88 ,68 
+All,Portuguese Sparkling,18 ,86 ,65 
+All,Verdelho,19 ,88 ,65 
+All,Marsanne,33 ,89 ,65 
+All,Provence red blend,30 ,90 ,64 
+All,Agiorgitiko,24 ,87 ,63 
+All,Austrian Red Blend,35 ,90 ,62 
+All,Syrah-Grenache,26 ,88 ,58 
+All,Malbec-Cabernet Sauvignon,37 ,89 ,58 
+All,Moscatel,26 ,87 ,57 
+All,Petit Manseng,33 ,89 ,57 
+All,Vidal Blanc,43 ,88 ,55 
+All,Pecorino,20 ,87 ,54 
+All,Semillon-Sauvignon Blanc,22 ,87 ,53 
+All,Sylvaner,23 ,89 ,53 
+All,Tempranillo-Cabernet Sauvignon,64 ,89 ,53 
+All,Furmint,28 ,88 ,52 
+All,Trebbiano,18 ,85 ,51 
+All,Gros and Petit Manseng,21 ,90 ,51 
+All,Alsace white blend,30 ,90 ,51 
+All,Lambrusco,16 ,85 ,50 
+All,Alicante Bouschet,23 ,87 ,50 
+All,Grenache-Syrah,34 ,89 ,50 
+All,Weissburgunder,26 ,90 ,47 
+All,M√ºller-Thurgau,18 ,87 ,46 
+All,Pinot Meunier,51 ,89 ,45 
+All,Malvasia,28 ,86 ,44 
+All,Assyrtico,24 ,88 ,43 
+All,Graciano,42 ,89 ,43 
+All,Prugnolo Gentile,48 ,89 ,43 
+All,Cabernet Sauvignon-Carmen√®re,54 ,87 ,43 
+All,Pedro Xim√©nez,23 ,88 ,42 
+All,Cinsault,28 ,87 ,41 
+All,Traminer,21 ,87 ,39 
+All,Shiraz-Cabernet Sauvignon,22 ,87 ,39 
+All,Frappato,23 ,88 ,39 
+All,Encruzado,24 ,90 ,39 
+All,Silvaner,30 ,87 ,39 
+All,Garnacha Blanca,23 ,88 ,38 
+All,Shiraz-Viognier,53 ,90 ,38 
+All,Saperavi,21 ,86 ,37 
+All,Carricante,40 ,90 ,37 
+All,Syrah-Cabernet Sauvignon,46 ,90 ,37 
+All,Moschofilero,15 ,88 ,36 
+All,Muscat Canelli,21 ,88 ,36 
+All,Fern√£o Pires,21 ,87 ,36 
+All,Provence white blend,24 ,88 ,36 
+All,Lemberger,27 ,88 ,36 
+All,Chardonnay-Viognier,16 ,86 ,35 
+All,Merlot-Cabernet Sauvignon,25 ,87 ,35 
+All,Gelber Muskateller,26 ,89 ,35 
+All,Castel√£o,17 ,87 ,34 
+All,Chenin Blanc-Chardonnay,14 ,87 ,33 
+All,Insolia,17 ,87 ,33 
+All,Rkatsiteli,19 ,87 ,33 
+All,Xinomavro,23 ,87 ,33 
+All,Claret,50 ,88 ,33 
+All,Tempranillo-Garnacha,19 ,86 ,32 
+All,Teroldego,33 ,89 ,32 
+All,Tannat-Cabernet,21 ,90 ,31 
+All,Cannonau,25 ,88 ,31 
+All,Zibibbo,37 ,90 ,31 
+All,Inzolia,15 ,86 ,30 
+All,Carignane,27 ,89 ,30 
+All,Petite Verdot,36 ,88 ,30 
+All,Loureiro,13 ,87 ,29 
+All,Aligot√©,20 ,87 ,29 
+All,Catarratto,20 ,87 ,29 
+All,Baga,36 ,90 ,29 
+All,Touriga Nacional-Cabernet Sauvignon,14 ,88 ,28 
+All,Auxerrois,22 ,89 ,27 
+All,Cabernet Sauvignon-Shiraz,22 ,87 ,27 
+All,Dornfelder,24 ,88 ,27 
+All,Kerner,24 ,90 ,27 
+All,Picolit,70 ,91 ,27 
+All,Trincadeira,20 ,88 ,26 
+All,Rotgipfler,27 ,90 ,26 
+All,Charbono,34 ,88 ,26 
+All,Gros Manseng,21 ,89 ,25 
+All,Welschriesling,23 ,87 ,25 
+All,Scheurebe,43 ,90 ,25 
+All,Colombard,16 ,87 ,24 
+All,Passerina,17 ,86 ,24 
+All,Jacqu√®re,17 ,88 ,24 
+All,Tokaji,59 ,91 ,24 
+All,Muskat Ottonel,14 ,87 ,23 
+All,Macabeo,18 ,85 ,23 
+All,Schiava,19 ,88 ,23 
+All,Bobal,22 ,86 ,23 
+All,Gamay Noir,22 ,88 ,23 
+All,Albana,23 ,90 ,23 
+All,Merlot-Cabernet Franc,38 ,88 ,23 
+All,Verdejo-Viura,11 ,86 ,22 
+All,Tocai Friulano,29 ,87 ,22 
+All,Savagnin,32 ,89 ,22 
+All,Marsanne-Roussanne,37 ,88 ,22 
+All,Corvina,43 ,89 ,22 
+All,Xarel-lo,16 ,86 ,21 
+All,Monastrell-Syrah,19 ,86 ,21 
+All,Cabernet Merlot,27 ,88 ,21 
+All,Cabernet Sauvignon-Cabernet Franc,34 ,89 ,21 
+All,Orange Muscat,20 ,88 ,20 
+All,Piedirosso,21 ,87 ,20 
+All,Syrah-Mourv√®dre,30 ,90 ,20 
+All,Malbec-Syrah,35 ,86 ,20 
+All,Cabernet Franc-Merlot,53 ,91 ,20 
+All,Lambrusco di Sorbara,21 ,90 ,19 
+All,Nero di Troia,28 ,88 ,19 
+All,Touriga Nacional Blend,60 ,91 ,19 
+All,Colombard-Sauvignon Blanc,11 ,85 ,18 
+All,Chambourcin,18 ,84 ,18 
+All,Lambrusco Grasparossa,18 ,87 ,18 
+All,Coda di Volpe,20 ,85 ,18 
+All,Picpoul,21 ,88 ,18 
+All,Cabernet Sauvignon-Malbec,33 ,87 ,18 
+All,Palomino,35 ,88 ,18 
+All,Tinto del Pais,39 ,88 ,18 
+All,Syrah-Viognier,48 ,90 ,18 
+All,Pinot Noir-Gamay,18 ,85 ,17 
+All,Ant√£o Vaz,20 ,88 ,17 
+All,Hondarrabi Zuri,21 ,86 ,17 
+All,Assyrtiko,23 ,89 ,17 
+All,Grenache-Carignan,26 ,90 ,17 
+All,Negrette,26 ,87 ,17 
+All,Plavac Mali,34 ,88 ,17 
+All,Portuguese Ros√©,17 ,85 ,16 
+All,Moscato Giallo,20 ,91 ,16 
+All,Seyval Blanc,20 ,84 ,16 
+All,Tannat-Cabernet Franc,20 ,91 ,16 
+All,Malvasia Bianca,24 ,89 ,16 
+All,Raboso,25 ,86 ,16 
+All,Norton,25 ,84 ,16 
+All,Baco Noir,26 ,86 ,16 
+All,Alfrocheiro,27 ,89 ,16 
+All,Cabernet Franc-Cabernet Sauvignon,31 ,89 ,16 
+All,Zierfandler,33 ,90 ,16 
+All,Malbec-Tannat,39 ,89 ,16 
+All,Syrah-Petite Sirah,41 ,90 ,16 
+All,Cabernet Sauvignon-Tempranillo,16 ,87 ,15 
+All,Grechetto,17 ,87 ,15 
+All,Brachetto,18 ,84 ,15 
+All,Gaglioppo,21 ,87 ,15 
+All,Syrah-Cabernet,22 ,86 ,15 
+All,Kalecik Karasi,25 ,89 ,15 
+All,Shiraz-Grenache,28 ,90 ,15 
+All,Mondeuse,33 ,88 ,15 
+All,Carignano,37 ,90 ,15 
+All,Prieto Picudo,39 ,86 ,15 
+All,Pansa Blanca,18 ,86 ,14 
+All,Sauvignon Gris,24 ,88 ,14 
+All,Viura-Chardonnay,11 ,85 ,13 
+All,Garnacha-Syrah,13 ,85 ,13 
+All,Bical,15 ,86 ,13 
+All,White Riesling,21 ,89 ,13 
+All,Cabernet-Syrah,24 ,89 ,13 
+All,Pinot Auxerrois,24 ,88 ,13 
+All,Uva di Troia,24 ,88 ,13 
+All,Chenin Blanc-Viognier,25 ,89 ,13 
+All,Grauburgunder,25 ,89 ,13 
+All,Roussanne-Viognier,31 ,89 ,13 
+All,Roter Veltliner,37 ,90 ,13 
+All,Siria,14 ,87 ,12 
+All,Muscat Blanc,20 ,89 ,12 
+All,Malagousia,21 ,89 ,12 
+All,Viognier-Chardonnay,23 ,87 ,12 
+All,Ruch√©,27 ,87 ,12 
+All,Counoise,31 ,89 ,12 
+All,Vignoles,18 ,85 ,11 
+All,Tannat-Merlot,19 ,88 ,11 
+All,Cabernet,19 ,87 ,11 
+All,Merlot-Cabernet,20 ,87 ,11 
+All,Black Muscat,22 ,88 ,11 
+All,Neuburger,25 ,91 ,11 
+All,Refosco,25 ,87 ,11 
+All,Tinta Roriz,29 ,88 ,11 
+All,Tinta Fina,30 ,88 ,11 
+All,Vidal,32 ,89 ,11 
+All,Malbec-Cabernet Franc,34 ,87 ,11 
+All,Traminette,15 ,85 ,10 
+All,Tocai,18 ,87 ,10 
+All,Trepat,21 ,88 ,10 
+All,Aragonez,24 ,88 ,10 
+All,Grenache Blend,25 ,88 ,10 
+All,Perricone,27 ,88 ,10 
+All,Kekfrankos,30 ,87 ,10 
+All,Aragon√™s,30 ,89 ,10 
+All,Pallagrello,36 ,88 ,10 
+All,Mataro,42 ,89 ,10 
+All,Muscadelle,99 ,92 ,10 
+All,Johannisberg Riesling,9 ,86 ,9 
+All,Ugni Blanc-Colombard,11 ,86 ,9 
+All,Grecanico,21 ,87 ,9 
+All,Malvasia Istriana,22 ,87 ,9 
+All,Carignan-Grenache,26 ,89 ,9 
+All,Loin de l'Oeil,27 ,91 ,9 
+All,Tempranillo Blanco,29 ,84 ,9 
+All,Durella,31 ,90 ,9 
+All,Colombard-Ugni Blanc,10 ,85 ,8 
+All,Tempranillo-Shiraz,14 ,85 ,8 
+All,Garnacha Tintorera,17 ,87 ,8 
+All,Altesse,18 ,89 ,8 
+All,Sauvignon Blanc-Chardonnay,22 ,88 ,8 
+All,Cesanese d'Affile,22 ,88 ,8 
+All,Manzoni,23 ,87 ,8 
+All,Okuzgozu,24 ,90 ,8 
+All,Posip,25 ,88 ,8 
+All,Carmen√®re-Cabernet Sauvignon,27 ,88 ,8 
+All,Nosiola,31 ,88 ,8 
+All,Cabernet Sauvignon-Sangiovese,36 ,89 ,8 
+All,Sous√£o,37 ,88 ,8 
+All,Feteasca Neagra,14 ,88 ,7 
+All,Mavrud,14 ,88 ,7 
+All,Chardonnay-Semillon,18 ,86 ,7 
+All,Mauzac,18 ,88 ,7 
+All,Tempranillo-Merlot,19 ,85 ,7 
+All,Chasselas,20 ,90 ,7 
+All,Gew√ºrztraminer-Riesling,21 ,86 ,7 
+All,Narince,21 ,87 ,7 
+All,Duras,21 ,88 ,7 
+All,Trebbiano Spoletino,22 ,88 ,7 
+All,Carmen√®re-Syrah,23 ,87 ,7 
+All,Teran,25 ,89 ,7 
+All,Viognier-Roussanne,26 ,88 ,7 
+All,Jaen,27 ,88 ,7 
+All,Touriga Franca,27 ,89 ,7 
+All,Nascetta,27 ,88 ,7 
+All,Mantonico,28 ,88 ,7 
+All,Syrah-Tempranillo,30 ,89 ,7 
+All,Syrah-Merlot,30 ,88 ,7 
+All,Tokay,47 ,91 ,7 
+All,Mission,53 ,89 ,7 
+All,(blank),85 ,89 ,7 
+All,Bual,100 ,94 ,7 
+All,Feteasc«é Regal«é,10 ,87 ,6 
+All,Chenin Blanc-Sauvignon Blanc,11 ,85 ,6 
+All,Garnacha-Tempranillo,11 ,86 ,6 
+All,Chardonnay-Sauvignon,13 ,87 ,6 
+All,Chardonnay-Sauvignon Blanc,13 ,88 ,6 
+All,Avesso,16 ,88 ,6 
+All,Greco Bianco,17 ,86 ,6 
+All,Valdigui√©,19 ,87 ,6 
+All,Kisi,20 ,87 ,6 
+All,Moscatel Roxo,22 ,90 ,6 
+All,Tannat-Syrah,22 ,88 ,6 
+All,Pri√© Blanc,24 ,88 ,6 
+All,Blanc du Bois,27 ,85 ,6 
+All,Pinot-Chardonnay,29 ,90 ,6 
+All,Sangiovese-Cabernet Sauvignon,30 ,86 ,6 
+All,Susumaniello,31 ,90 ,6 
+All,Morillon,31 ,90 ,6 
+All,Verduzzo,33 ,90 ,6 
+All,Nerello Cappuccio,37 ,90 ,6 
+All,Rieslaner,39 ,90 ,6 
+All,Malvasia Nera,39 ,87 ,6 
+All,Merlot-Malbec,40 ,87 ,6 
+All,Moscadello,40 ,90 ,6 
+All,Grenache-Mourv√®dre,44 ,90 ,6 
+All,Trousseau,47 ,88 ,6 
+All,Maturana,58 ,87 ,6 
+All,Verdejo-Sauvignon Blanc,10 ,85 ,5 
+All,Semillon-Chardonnay,11 ,86 ,5 
+All,Alvarinho-Chardonnay,11 ,87 ,5 
+All,Savatiano,14 ,87 ,5 
+All,Verdeca,16 ,86 ,5 
+All,Symphony,16 ,85 ,5 
+All,Mavrodaphne,16 ,86 ,5 
+All,Malbec-Bonarda,18 ,86 ,5 
+All,Carine√±a,22 ,86 ,5 
+All,Alicante,23 ,87 ,5 
+All,Viosinho,23 ,88 ,5 
+All,Zierfandler-Rotgipfler,24 ,90 ,5 
+All,Muskateller,25 ,87 ,5 
+All,Braucol,27 ,91 ,5 
+All,Roter Traminer,30 ,90 ,5 
+All,Pallagrello Bianco,32 ,88 ,5 
+All,Chardonnay-Pinot Blanc,33 ,89 ,5 
+All,Tinta Barroca,35 ,89 ,5 
+All,S√§mling,36 ,91 ,5 
+All,Sciaccerellu,37 ,89 ,5 
+All,Roussanne-Marsanne,38 ,89 ,5 
+All,Aleatico,40 ,87 ,5 
+All,Pallagrello Nero,41 ,88 ,5 
+All,Timorasso,42 ,91 ,5 
+All,Casavecchia,46 ,87 ,5 
+All,Sangiovese-Syrah,50 ,88 ,5 
+All,Syrah-Cabernet Franc,65 ,91 ,5 
+All,Macabeo-Chardonnay,12 ,85 ,4 
+All,Sauvignon Blanc-Verdejo,12 ,85 ,4 
+All,Vilana,15 ,87 ,4 
+All,Vranec,15 ,86 ,4 
+All,Elbling,16 ,88 ,4 
+All,Emir,16 ,87 ,4 
+All,Monica,16 ,87 ,4 
+All,Pignoletto,16 ,85 ,4 
+All,Fer Servadou,17 ,87 ,4 
+All,Roditis,17 ,87 ,4 
+All,Mansois,17 ,87 ,4 
+All,Sauvignon Blanc-Chenin Blanc,17 ,87 ,4 
+All,Muscat Hamburg,18 ,88 ,4 
+All,Mtsvane,18 ,88 ,4 
+All,C√≥dega do Larinho,18 ,88 ,4 
+All,Edelzwicker,20 ,89 ,4 
+All,Malagouzia,20 ,89 ,4 
+All,Muskat,21 ,90 ,4 
+All,Vinh√£o,22 ,86 ,4 
+All,Rolle,22 ,88 ,4 
+All,Pinot Blanc-Chardonnay,23 ,88 ,4 
+All,Robola,23 ,88 ,4 
+All,Grenache-Shiraz,26 ,88 ,4 
+All,Boƒüazkere,26 ,90 ,4 
+All,Marselan,27 ,88 ,4 
+All,Syrah-Carignan,27 ,91 ,4 
+All,Veltliner,30 ,90 ,4 
+All,Bovale,30 ,90 ,4 
+All,Magliocco,30 ,89 ,4 
+All,Babiƒá,35 ,89 ,4 
+All,Malbec-Petit Verdot,40 ,91 ,4 
+All,Sangiovese Cabernet,48 ,89 ,4 
+All,Cabernet Franc-Malbec,59 ,91 ,4 
+All,Mazuelo,78 ,88 ,4 
+All,Airen,9 ,82 ,3 
+All,Garnacha-Monastrell,12 ,87 ,3 
+All,Azal,14 ,86 ,3 
+All,Cabernet Sauvignon-Merlot-Shiraz,15 ,89 ,3 
+All,Asprinio,15 ,84 ,3 
+All,Nuragus,16 ,88 ,3 
+All,Rivaner,16 ,87 ,3 
+All,Muscat Blanc √† Petits Grains,16 ,87 ,3 
+All,Muscatel,17 ,88 ,3 
+All,Treixadura,17 ,87 ,3 
+All,Shiraz-Mourv√®dre,17 ,89 ,3 
+All,Malvasia-Viura,18 ,85 ,3 
+All,Shiraz-Malbec,18 ,90 ,3 
+All,Merlot-Tannat,18 ,89 ,3 
+All,Muscat d'Alexandrie,19 ,86 ,3 
+All,Tinta Mi√∫da,19 ,88 ,3 
+All,Moscatel de Alejandr√≠a,19 ,85 ,3 
+All,Viognier-Marsanne,20 ,89 ,3 
+All,Lambrusco Salamino,20 ,89 ,3 
+All,Clairette,21 ,89 ,3 
+All,Muscat of Alexandria,21 ,88 ,3 
+All,Papaskarasi,21 ,87 ,3 
+All,Rebula,23 ,88 ,3 
+All,Romorantin,23 ,91 ,3 
+All,Tinta del Toro,23 ,86 ,3 
+All,Nielluciu,24 ,89 ,3 
+All,Grenache Noir,24 ,89 ,3 
+All,Trousseau Gris,24 ,90 ,3 
+All,Poulsard,26 ,87 ,3 
+All,Incrocio Manzoni,26 ,88 ,3 
+All,Ugni Blanc,27 ,91 ,3 
+All,Souzao,28 ,87 ,3 
+All,List√°n Negro,28 ,88 ,3 
+All,Erbaluce,29 ,88 ,3 
+All,Trebbiano di Lugana,29 ,88 ,3 
+All,Ciliegiolo,31 ,88 ,3 
+All,Pinot Noir-Syrah,32 ,87 ,3 
+All,Viognier-Grenache Blanc,33 ,89 ,3 
+All,Jacquez,34 ,85 ,3 
+All,Marawi,35 ,88 ,3 
+All,Mourv√®dre-Syrah,37 ,92 ,3 
+All,Grolleau,39 ,87 ,3 
+All,Argaman,41 ,88 ,3 
+All,Canaiolo,41 ,88 ,3 
+All,Syrah-Petit Verdot,42 ,92 ,3 
+All,Cerceal,45 ,90 ,3 
+All,Abouriou,45 ,87 ,3 
+All,Madeira Blend,46 ,88 ,3 
+All,Touriga,46 ,89 ,3 
+All,Pugnitello,49 ,88 ,3 
+All,Tinta Francisca,50 ,90 ,3 
+All,Marzemino,52 ,86 ,3 
+All,Vitovska,54 ,91 ,3 
+All,Verduzzo Friulano ,54 ,89 ,3 
+All,Shiraz-Cabernet,56 ,87 ,3 
+All,Carignan-Syrah,59 ,91 ,3 
+All,Malbec Blend,67 ,90 ,3 
+All,Debit,83 ,89 ,3 
+All,Malbec-Cabernet,113 ,92 ,3 
+All,Shiraz-Tempranillo,9 ,82 ,2 
+All,Maria Gomes,11 ,88 ,2 
+All,TƒÉm√¢ioasƒÉ Rom√¢neascƒÉ,11 ,88 ,2 
+All,Malbec-Tempranillo,11 ,87 ,2 
+All,Cabernet Franc-Carmen√®re,12 ,86 ,2 
+All,Viura-Verdejo,12 ,85 ,2 
+All,Moscatel Gra√∫do,13 ,88 ,2 
+All,Tinta Cao,14 ,90 ,2 
+All,Zlahtina,15 ,86 ,2 
+All,Portuguiser,15 ,86 ,2 
+All,Viognier-Gew√ºrztraminer,15 ,86 ,2 
+All,Blauer Portugieser,16 ,87 ,2 
+All,Cayuga,16 ,85 ,2 
+All,Chancellor,16 ,81 ,2 
+All,Gragnano,17 ,83 ,2 
+All,Morio Muskat,17 ,87 ,2 
+All,Grignolino,17 ,86 ,2 
+All,Rara Neagra,18 ,90 ,2 
+All,Feteasca,18 ,88 ,2 
+All,Saperavi-Merlot,18 ,87 ,2 
+All,Tempranillo-Syrah,18 ,87 ,2 
+All,Madeleine Angevine,18 ,86 ,2 
+All,Tamjanika,18 ,88 ,2 
+All,Cabernet Moravia,18 ,87 ,2 
+All,Yapincak,18 ,86 ,2 
+All,Marquette,18 ,85 ,2 
+All,Cabernet Sauvignon Grenache,19 ,88 ,2 
+All,Xynisteri,19 ,87 ,2 
+All,Garnacha Blend,19 ,88 ,2 
+All,√áalkarasƒ±,19 ,87 ,2 
+All,Sacy,19 ,87 ,2 
+All,Monastrell-Petit Verdot,20 ,88 ,2 
+All,Plyto,20 ,87 ,2 
+All,Torbato,20 ,91 ,2 
+All,Cesanese,20 ,90 ,2 
+All,Cabernet Franc-Lemberger,20 ,87 ,2 
+All,Bastardo,21 ,86 ,2 
+All,Merlot-Syrah,21 ,89 ,2 
+All,Freisa,21 ,87 ,2 
+All,Alvarelh√£o,21 ,87 ,2 
+All,Trollinger,22 ,91 ,2 
+All,Gouveio,23 ,89 ,2 
+All,Malvasia di Candia,23 ,87 ,2 
+All,Muscadine,23 ,86 ,2 
+All,Chelois,23 ,85 ,2 
+All,Sirica,23 ,93 ,2 
+All,Groppello,23 ,87 ,2 
+All,Chinuri,23 ,86 ,2 
+All,Pigato,23 ,84 ,2 
+All,Malvasia Fina,24 ,88 ,2 
+All,Malvar,24 ,85 ,2 
+All,Kadarka,24 ,88 ,2 
+All,Black Monukka,25 ,91 ,2 
+All,Mandilaria,25 ,89 ,2 
+All,Vespolina,25 ,88 ,2 
+All,Ansonica,26 ,87 ,2 
+All,Other,27 ,89 ,2 
+All,Rebo,27 ,88 ,2 
+All,Marsanne-Viognier,28 ,87 ,2 
+All,Roviello,28 ,93 ,2 
+All,H√°rslevel√º,28 ,90 ,2 
+All,Rufete,29 ,86 ,2 
+All,Apple,29 ,89 ,2 
+All,Uvalino,29 ,88 ,2 
+All,Cabernet Pfeffer,30 ,88 ,2 
+All,Bombino Bianco,30 ,87 ,2 
+All,Chardonnay-Albari√±o,31 ,92 ,2 
+All,Cari√±ena-Garnacha,31 ,90 ,2 
+All,Durif,33 ,86 ,2 
+All,Moscato Rosa,34 ,90 ,2 
+All,Rabigato,34 ,89 ,2 
+All,Nasco,38 ,91 ,2 
+All,Baga-Touriga Nacional,40 ,91 ,2 
+All,White Port,40 ,89 ,2 
+All,Albarossa,40 ,88 ,2 
+All,Chardonnay Weissburgunder,42 ,92 ,2 
+All,Tinta del Pais,48 ,95 ,2 
+All,Cabernet-Shiraz,84 ,91 ,2 
+All,Rosenmuskateller,150 ,93 ,2 
+All,Bacchus,,91 ,2 
+All,Trajadura,7 ,86 ,1 
+All,Malagouzia-Chardonnay,8 ,86 ,1 
+All,Macabeo-Moscatel,8 ,85 ,1 
+All,Merseguera-Sauvignon Blanc,9 ,85 ,1 
+All,Tinto Velasco,9 ,85 ,1 
+All,Bobal-Cabernet Sauvignon,9 ,84 ,1 
+All,Merlot-Grenache,10 ,89 ,1 
+All,Diamond,10 ,86 ,1 
+All,Loureiro-Arinto,10 ,86 ,1 
+All,Pinotage-Merlot,10 ,84 ,1 
+All,Gamza,11 ,89 ,1 
+All,Roditis-Moschofilero,11 ,88 ,1 
+All,Bombino Nero,11 ,87 ,1 
+All,Cabernet-Malbec,11 ,86 ,1 
+All,Chardonel,11 ,83 ,1 
+All,Paralleda,11 ,83 ,1 
+All,Blatina,12 ,88 ,1 
+All,Mavroudi,12 ,87 ,1 
+All,Sauvignon-S√©millon,12 ,86 ,1 
+All,Merlot-Argaman,12 ,85 ,1 
+All,Kotsifali,13 ,92 ,1 
+All,Piquepoul Blanc,13 ,88 ,1 
+All,Irsai Oliver,13 ,87 ,1 
+All,Syrah-Bonarda,13 ,87 ,1 
+All,Valvin Muscat,13 ,87 ,1 
+All,Garnacha-Cabernet,13 ,85 ,1 
+All,Moschofilero-Chardonnay,13 ,85 ,1 
+All,Syrah-Malbec,14 ,89 ,1 
+All,Kangoun,14 ,87 ,1 
+All,Parraleta,14 ,86 ,1 
+All,Ondenc,15 ,90 ,1 
+All,Karasakiz,15 ,89 ,1 
+All,≈Ωilavka,15 ,88 ,1 
+All,Karalahna,15 ,87 ,1 
+All,Kuntra,15 ,86 ,1 
+All,Mavrokalavryta,15 ,86 ,1 
+All,Teroldego Rotaliano,15 ,86 ,1 
+All,Kinali Yapincak,15 ,84 ,1 
+All,Siegerrebe,15 ,84 ,1 
+All,Premsal,15 ,83 ,1 
+All,Roussanne-Grenache Blanc,16 ,91 ,1 
+All,Franconia,16 ,86 ,1 
+All,Gros Plant,16 ,86 ,1 
+All,Folle Blanche,16 ,85 ,1 
+All,Pinot Blanc-Pinot Noir,16 ,85 ,1 
+All,(blank),17 ,88 ,1 
+All,Blauburger,17 ,87 ,1 
+All,Chardonnay-Pinot Gris,17 ,85 ,1 
+All,Verdosilla,17 ,84 ,1 
+All,Viognier-Valdigui√©,17 ,84 ,1 
+All,Sauvignon Musqu√©,18 ,87 ,1 
+All,Merlot-Shiraz,18 ,86 ,1 
+All,Verdil,18 ,86 ,1 
+All,Biancale,18 ,85 ,1 
+All,Athiri,18 ,83 ,1 
+All,Pa√≠s,18 ,83 ,1 
+All,Blauburgunder,19 ,93 ,1 
+All,Caprettone,19 ,92 ,1 
+All,Catalanesca,19 ,89 ,1 
+All,Petit Courbu,19 ,88 ,1 
+All,Pinot Blanc-Viognier,19 ,87 ,1 
+All,Misket,19 ,85 ,1 
+All,Sauvignon Blanc-Assyrtiko,20 ,92 ,1 
+All,Pinot Gris-Gew√ºrztraminer,20 ,90 ,1 
+All,Gra≈°evina,20 ,89 ,1 
+All,Tamianka,20 ,89 ,1 
+All,Xinisteri,20 ,89 ,1 
+All,Tempranillo-Tannat,20 ,88 ,1 
+All,Albanello,20 ,86 ,1 
+All,Cococciola,20 ,86 ,1 
+All,Dafni,20 ,85 ,1 
+All,Merlot-Petite Verdot,20 ,83 ,1 
+All,Carcajolu,21 ,88 ,1 
+All,Picapoll,21 ,82 ,1 
+All,Orangetraube,22 ,90 ,1 
+All,Grenache Gris,22 ,87 ,1 
+All,Prunelard,23 ,91 ,1 
+All,Sideritis,23 ,85 ,1 
+All,Vidadillo,24 ,89 ,1 
+All,Frankovka,24 ,88 ,1 
+All,Chardonnay-Riesling,24 ,87 ,1 
+All,St. Vincent,24 ,85 ,1 
+All,Sauvignonasse,25 ,90 ,1 
+All,Schwartzriesling,25 ,90 ,1 
+All,Jampal,25 ,88 ,1 
+All,Thrapsathiri,25 ,88 ,1 
+All,Molinara,25 ,87 ,1 
+All,Tintilia ,25 ,87 ,1 
+All,Maria Gomes-Bical,25 ,86 ,1 
+All,Silvaner-Traminer,25 ,86 ,1 
+All,Morava,26 ,87 ,1 
+All,Biancolella,26 ,85 ,1 
+All,Forcall√†,27 ,83 ,1 
+All,Aidani,27 ,82 ,1 
+All,Shiraz-Roussanne,29 ,90 ,1 
+All,Tinta Amarela,30 ,90 ,1 
+All,Tokay Pinot Gris,30 ,89 ,1 
+All,Muscadel,30 ,88 ,1 
+All,Barbera-Nebbiolo,30 ,87 ,1 
+All,Gelber Traminer,35 ,95 ,1 
+All,Meseguera,35 ,91 ,1 
+All,Pinot Grigio-Sauvignon Blanc,35 ,87 ,1 
+All,Centesimino,36 ,92 ,1 
+All,Riesling-Chardonnay,40 ,94 ,1 
+All,Moscato di Noto,40 ,92 ,1 
+All,Torontel,40 ,92 ,1 
+All,Vespaiolo,40 ,92 ,1 
+All,Favorita,40 ,90 ,1 
+All,Fr√ºburgunder,40 ,90 ,1 
+All,Ryzlink R√Ωnsk√Ω,40 ,89 ,1 
+All,Colorino,40 ,86 ,1 
+All,Malbec-Carm√©n√®re,43 ,91 ,1 
+All,Babosa Negro,45 ,92 ,1 
+All,Syrah-Grenache-Viognier,45 ,90 ,1 
+All,Tinta Madeira,45 ,89 ,1 
+All,Vermentino Nero,45 ,88 ,1 
+All,Cabernet Sauvignon-Barbera,45 ,84 ,1 
+All,Sercial,50 ,94 ,1 
+All,Mavrotragano,50 ,90 ,1 
+All,Cercial,50 ,88 ,1 
+All,Do√±a Blanca,53 ,84 ,1 
+All,Garnacha-Cari√±ena,57 ,93 ,1 
+All,Pignolo,70 ,92 ,1 
+All,Tinta Negra Mole,112 ,92 ,1 
+All,Francisa,160 ,91 ,1 
+All,Terrantez,236 ,95 ,1 
+All,Ramisco,495 ,93 ,1 
+All,Tempranillo-Malbec,,91 ,1 
+All,Vital,,90 ,1 
+All,Biancu Gentile,,89 ,1 
+All,Petit Meslier,,89 ,1 
+All,Roscetto,,88 ,1 
+All,Zelen,,88 ,1 
+All,Sauvignon Blanc-Sauvignon Gris,,86 ,1 
+All,Ekiga√Øna,,85 ,1 
+All,Espadeiro,,84 ,1 

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <!-- Load d3-annotation -->
+    <title>Wine Varieties</title>
+    <script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
+
+</head>
+
+<body onload='init();'>
+    <div class="Heading">
+        <h1>Wine Varietals Comparison </h1>
+    </div>
+
+    <div class="MainContent">
+        <p>
+            The bar charts below compare the average ratings and average price of the top 10 popular varietals from these top 5 countries. This exposed some interesting insights. For example, <i>Bordeaux Red-blends</i> from <i>Portugal</i> on an average, rated higher than the other four countries but had a much lower significant average selling price. Another interesting insight, the lonely <i>Zinfandel</i> bar reveals that this varietal is most popular only in the <i>United States</i>.</p>
+    </div>
+    <table>
+        <tr>
+            <td style="text-align:left;"><a href="index.html" class="next">&laquo; Previous </a>
+            </td>
+            <td style="text-align:left;"><a href="slide3.html" class="next">Next &raquo;</a>
+            </td>
+        </tr>
+
+    </table>
+    <table>
+        <tr>
+            <td>
+                <p><b>Average Ratings(Points of Varietals of Top 5 Countries</b></p>
+            </td>
+            <td>
+                <p><b>Average Price of Varietals of Top 5 Countries</b></p>
+            </td>
+        </tr>
+
+
+        <tr>
+            <td>
+                <div id="my_dataviz"></div>
+            </td>
+            <td>
+                <div id="my_dataviz2"></div>
+            </td>
+        </tr>
+
+        <table>
+            <div class="MainContent">
+                <p>
+                    Next, i wanted to widen my scope of analysis to the entire wine dataset from all the <i>48</i> countries and see if there is any correlation between the wine price and ratings. From the chart below, you can see that there is no <i>significant correlation</i> between the price of varietals to its ratings. There seems to be very few high priced wines in the dataset and on the other hand there are many even higher rated wines in the <i>under 50$</i> price range. This to us consumers is good news, since many higher rated varietals are available to us at an affordable price.</p>
+            </div>
+        </table>
+        <table>
+            <tr>
+                <td>
+                    <p><b>Comparison of Ratings(Points) to Price of all Varietals</b></p>
+                </td>
+
+            </tr>
+            <tr>
+                <td>
+
+                    <p style="color:indianred"><u>*Hover on blue circles below for additional tasting details.</u></p>
+                </td>
+
+            </tr>
+
+
+            <tr>
+                <td>
+                    <div id="my_dataviz3"></div>
+                </td>
+
+            </tr>
+        </table>
+
+
+        <div class="footer">
+            <p>
+                <a href="https://www.kaggle.com/zynicide/wine-reviews?select=winemag-data-130k-v2.csv">Wine Dataset: kaggle winemag dataset</a>
+
+            </p>
+            <p>By: Aruna Gomatam</p>
+        </div>
+
+        <script src="slide2.js"></script>
+</body>
+
+</html>
